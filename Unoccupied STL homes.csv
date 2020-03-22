@@ -1,69 +1,5933 @@
-﻿Row Labels,Count of Yrs Vacant,Min of Yrs Vacant,Max of Yrs Vacant,Average of Yrs Vacant
-Academy,203,0,29,8.6
-Baden,272,0,21,5.6
-Benton Park,25,0,14,4.6
-Benton Park West,120,1,23,5.8
-Bevo Mill,14,1,11,5.1
-Botanical Heights,14,2,20,9.6
-Boulevard Heights,1,6,6,6.0
-Carondelet,32,0,16,5.9
-Central West End,11,0,28,9.5
-Cheltenham,9,1,9,3.3
-Clayton-Tamm,9,1,4,2.7
-Clifton Heights,2,2,6,4.0
-College Hill,158,0,28,10.6
-Compton Heights,1,4,4,4.0
-Covenant Blu-Grand Center,23,1,28,10.2
-Dutchtown,113,0,16,5.8
-Ellendale,5,0,12,7.0
-Fairground Neighborhood,134,0,28,9.6
-Forest Park South East,88,0,15,7.2
-Fountain Park,86,0,23,6.3
-Fox Park,23,0,29,9.8
-Franz Park,8,2,6,3.9
-Gravois Park,114,0,27,9.2
-Greater Ville,516,0,29,7.5
-Hamilton Heights,256,0,24,5.8
-Hi-Pointe,7,1,6,2.0
-Hyde Park,209,0,29,12.4
-Jeff Vanderlou,286,0,29,9.1
-Kings Oak,3,3,6,4.0
-Kingsway East,214,0,23,7.5
-Kingsway West,114,0,24,5.6
-Lafayette Square,1,9,9,9.0
-Lewis Place,123,0,29,6.6
-Lindenwood Park,3,3,6,5.0
-Marine Villa,44,0,23,6.2
-Mark Twain,181,0,23,5.8
-Mark Twain I-70 Industrial,6,0,18,5.7
-McKinley Heights,4,1,25,9.8
-Mount Pleasant,57,0,17,4.3
-Near North Riverfront,5,1,20,13.4
-North Hampton,7,1,6,2.6
-North Pointe,20,0,11,3.1
-North Riverfront,4,9,15,12.0
-O'Fallon,335,0,26,6.9
-Old North St. Louis,48,1,29,13.0
-Patch,25,0,26,9.2
-Peabody Darst Webbe,7,1,24,10.1
-Penrose,297,0,29,5.9
-Princeton Heights,2,0,1,0.5
-Shaw,5,3,25,10.0
-Skinker DeBaliviere,3,6,8,7.0
-Soulard,15,1,26,13.3
-South Hampton,4,0,5,3.0
-Southwest Garden,5,1,25,8.8
-St. Louis Place,71,0,28,9.6
-The Gate District,20,1,27,9.4
-The Hill,3,2,18,12.0
-The Ville,184,0,28,8.8
-Tiffany,2,0,3,1.5
-Tower Grove East,12,5,23,9.2
-Tower Grove South,31,2,16,4.3
-Vandeventer,89,0,26,8.2
-Visitation Park,8,0,17,9.5
-Walnut Park East,362,0,29,5.3
-Walnut Park West,230,0,25,6.6
-Wells Goodfellow,502,0,27,6.4
-West End,147,0,28,8.3
-Grand Total,5932,0,29,7.3
+﻿Neighborhoods,Year Built,Years Vacant
+Old North St. Louis,1903,8
+Old North St. Louis,1892,1
+Old North St. Louis,1892,5
+Old North St. Louis,1892,4
+Old North St. Louis,1892,8
+Old North St. Louis,1880,5
+Old North St. Louis,1903,5
+Old North St. Louis,1903,9
+Old North St. Louis,1903,23
+Soulard,1897,4
+Soulard,1885,9
+Soulard,1881,15
+Peabody Darst Webbe,1886,11
+Peabody Darst Webbe,1886,11
+Peabody Darst Webbe,1913,24
+Peabody Darst Webbe,1895,8
+Old North St. Louis,1885,17
+Old North St. Louis,0,3
+Old North St. Louis,1890,5
+Old North St. Louis,1908,17
+Old North St. Louis,1908,18
+Old North St. Louis,1898,11
+Old North St. Louis,1907,16
+Old North St. Louis,1892,25
+Old North St. Louis,1893,23
+Old North St. Louis,1893,6
+Old North St. Louis,1880,28
+Old North St. Louis,1893,17
+Old North St. Louis,1906,9
+Old North St. Louis,1909,21
+Old North St. Louis,1885,25
+Old North St. Louis,1885,5
+Soulard,1881,22
+Soulard,1885,24
+Soulard,1885,24
+Soulard,1885,7
+Soulard,1885,5
+Soulard,1892,1
+Soulard,1892,3
+Soulard,1860,23
+Jeff Vanderlou,1886,7
+Jeff Vanderlou,1895,10
+Jeff Vanderlou,1885,14
+Jeff Vanderlou,1886,23
+Jeff Vanderlou,1890,10
+Jeff Vanderlou,1888,11
+Jeff Vanderlou,1888,17
+Jeff Vanderlou,1886,10
+Jeff Vanderlou,1888,21
+Jeff Vanderlou,1888,9
+Jeff Vanderlou,1888,15
+Jeff Vanderlou,1890,7
+Jeff Vanderlou,1890,17
+Jeff Vanderlou,1885,24
+Jeff Vanderlou,1898,18
+Jeff Vanderlou,1884,6
+Jeff Vanderlou,1884,6
+Jeff Vanderlou,1891,6
+Jeff Vanderlou,1888,6
+Jeff Vanderlou,1889,6
+Jeff Vanderlou,1890,6
+Jeff Vanderlou,1890,13
+Jeff Vanderlou,1890,18
+Jeff Vanderlou,1885,18
+Jeff Vanderlou,1890,8
+Jeff Vanderlou,1890,9
+Jeff Vanderlou,1890,21
+Jeff Vanderlou,1890,19
+Jeff Vanderlou,1890,22
+Jeff Vanderlou,1880,7
+Jeff Vanderlou,1880,6
+Jeff Vanderlou,1886,6
+Jeff Vanderlou,1890,8
+Jeff Vanderlou,1880,4
+Jeff Vanderlou,1880,2
+Jeff Vanderlou,1880,6
+Jeff Vanderlou,1971,8
+Jeff Vanderlou,1883,1
+Jeff Vanderlou,1980,16
+Jeff Vanderlou,1980,8
+St. Louis Place,1971,6
+St. Louis Place,1971,6
+St. Louis Place,1894,10
+St. Louis Place,1894,10
+St. Louis Place,1900,10
+St. Louis Place,1900,4
+St. Louis Place,1971,10
+St. Louis Place,1905,9
+St. Louis Place,1909,17
+St. Louis Place,1909,9
+St. Louis Place,1892,18
+St. Louis Place,1972,4
+St. Louis Place,1972,10
+St. Louis Place,1892,23
+St. Louis Place,1883,11
+St. Louis Place,1883,11
+St. Louis Place,1887,11
+St. Louis Place,1909,3
+St. Louis Place,1896,6
+St. Louis Place,1885,6
+St. Louis Place,1879,3
+St. Louis Place,1894,16
+St. Louis Place,1893,14
+St. Louis Place,1971,13
+St. Louis Place,1891,10
+St. Louis Place,1971,3
+St. Louis Place,1887,4
+St. Louis Place,1972,3
+St. Louis Place,1887,10
+St. Louis Place,1887,19
+St. Louis Place,1884,11
+St. Louis Place,1895,7
+St. Louis Place,1893,28
+St. Louis Place,1906,10
+St. Louis Place,1908,20
+St. Louis Place,1882,13
+St. Louis Place,1888,4
+St. Louis Place,1889,3
+St. Louis Place,1909,15
+St. Louis Place,1890,19
+St. Louis Place,1881,13
+St. Louis Place,1881,16
+St. Louis Place,1881,5
+St. Louis Place,1897,4
+St. Louis Place,1891,19
+St. Louis Place,1891,5
+Old North St. Louis,1906,3
+Old North St. Louis,1890,5
+Old North St. Louis,1874,5
+Old North St. Louis,1890,9
+Old North St. Louis,1890,5
+Old North St. Louis,1900,3
+Old North St. Louis,1882,13
+Old North St. Louis,1896,6
+Old North St. Louis,1906,22
+Old North St. Louis,1873,18
+Old North St. Louis,1893,23
+Old North St. Louis,1893,11
+Old North St. Louis,1894,4
+Old North St. Louis,1891,29
+Old North St. Louis,1887,4
+Old North St. Louis,1885,21
+Old North St. Louis,1895,26
+Old North St. Louis,1895,26
+Old North St. Louis,1895,17
+Old North St. Louis,1885,19
+Old North St. Louis,1886,28
+Old North St. Louis,1885,8
+Hyde Park,1899,20
+Hyde Park,1885,20
+Hyde Park,1886,17
+Hyde Park,1885,25
+Hyde Park,1887,20
+Hyde Park,1880,3
+Hyde Park,1890,24
+Hyde Park,1885,29
+Hyde Park,1885,14
+Hyde Park,1880,8
+Hyde Park,1880,5
+Hyde Park,1931,10
+Hyde Park,1931,5
+Hyde Park,1931,10
+Hyde Park,1899,29
+Hyde Park,1882,16
+Hyde Park,1896,19
+Hyde Park,1893,29
+Hyde Park,1893,5
+Hyde Park,1885,5
+Hyde Park,1894,12
+Hyde Park,1922,17
+Hyde Park,1923,5
+Hyde Park,1925,10
+Hyde Park,1925,12
+Hyde Park,1925,11
+Hyde Park,1925,10
+Hyde Park,1925,12
+Hyde Park,1925,9
+Hyde Park,1890,22
+Hyde Park,1890,10
+Hyde Park,1892,13
+Hyde Park,1890,12
+Hyde Park,1890,8
+Hyde Park,1933,13
+Hyde Park,1892,11
+Hyde Park,1892,8
+Hyde Park,1909,5
+Hyde Park,1890,6
+Hyde Park,1890,21
+Hyde Park,1890,15
+Hyde Park,1909,11
+Hyde Park,2006,6
+Hyde Park,1890,4
+Hyde Park,1890,4
+Hyde Park,1890,5
+Hyde Park,1890,12
+Hyde Park,1884,24
+Hyde Park,1884,24
+Hyde Park,1886,11
+Hyde Park,1902,19
+Hyde Park,1897,19
+Hyde Park,1885,25
+Hyde Park,1884,11
+Near North Riverfront,1926,1
+Near North Riverfront,1890,9
+Hyde Park,1885,22
+Hyde Park,1885,22
+Hyde Park,1885,5
+Hyde Park,1889,14
+Hyde Park,1895,17
+Hyde Park,1884,16
+Hyde Park,1880,25
+Hyde Park,1880,27
+Hyde Park,1879,11
+Hyde Park,1890,15
+Hyde Park,1880,8
+Hyde Park,1966,12
+Hyde Park,1903,10
+Hyde Park,1890,25
+Hyde Park,1893,4
+Hyde Park,1891,28
+Hyde Park,1892,28
+Hyde Park,1889,15
+Jeff Vanderlou,1888,5
+Jeff Vanderlou,1893,10
+Jeff Vanderlou,1895,11
+The Gate District,1897,3
+The Gate District,1897,3
+The Gate District,1895,24
+The Gate District,1890,14
+The Gate District,1893,7
+The Gate District,1888,20
+The Gate District,1892,2
+The Gate District,1892,2
+The Gate District,1905,3
+The Gate District,1910,4
+The Gate District,1900,2
+The Gate District,1900,22
+Compton Heights,1905,4
+The Gate District,1894,27
+Fox Park,1887,5
+The Gate District,1893,10
+Fox Park,1905,8
+Fox Park,1896,6
+Fox Park,1873,8
+Fox Park,1898,9
+Fox Park,1896,18
+Fox Park,1900,29
+Fox Park,1888,3
+Fox Park,1895,1
+Fox Park,1890,4
+Fox Park,1907,5
+Fox Park,1903,0
+Fox Park,1888,15
+Fox Park,1911,5
+McKinley Heights,1888,6
+McKinley Heights,1891,7
+Benton Park,1885,6
+Fairground Neighborhood,1900,27
+Fairground Neighborhood,1901,8
+Fairground Neighborhood,1901,8
+Benton Park,1878,1
+Benton Park West,1890,5
+Benton Park West,1889,4
+Benton Park West,1910,10
+Benton Park West,1886,11
+Fox Park,1890,1
+Fox Park,1885,11
+Tower Grove East,1913,23
+Tower Grove East,1909,10
+Tower Grove East,1909,10
+Tower Grove East,1896,6
+Tower Grove East,1925,8
+Tower Grove East,1901,10
+Tower Grove East,1884,10
+Benton Park West,1890,2
+Benton Park West,1895,1
+Benton Park West,1895,2
+Benton Park West,1906,2
+Benton Park West,1893,1
+Benton Park West,1893,8
+Benton Park West,1924,1
+Benton Park West,1895,2
+Benton Park West,1885,2
+Benton Park West,1885,5
+Benton Park West,1912,15
+Tower Grove East,1921,5
+Tower Grove East,1905,6
+Benton Park West,1912,6
+Benton Park West,1911,3
+Benton Park West,1911,6
+Benton Park West,1905,4
+Benton Park West,1913,6
+Benton Park West,1904,3
+Benton Park West,1909,4
+Benton Park West,1900,5
+Benton Park West,1902,21
+Benton Park West,1896,2
+Benton Park West,1915,2
+Benton Park West,1915,6
+Benton Park West,1911,1
+Benton Park West,1895,4
+Benton Park West,1896,4
+Benton Park West,1900,9
+Benton Park West,1909,5
+Benton Park West,1903,6
+Benton Park West,1885,7
+Benton Park West,1900,6
+Benton Park West,1898,8
+Benton Park West,1936,3
+Benton Park West,1879,2
+Benton Park West,1905,1
+Benton Park West,1912,2
+Benton Park West,1904,3
+Benton Park West,1898,1
+Benton Park West,1890,7
+Benton Park West,1890,10
+Benton Park West,1893,2
+Benton Park West,1892,2
+Benton Park West,1894,1
+Benton Park West,1900,2
+Benton Park West,1898,1
+Benton Park West,1894,10
+Benton Park West,1909,8
+Benton Park West,1909,5
+Benton Park West,1909,8
+Benton Park West,1899,6
+Benton Park West,1890,23
+Benton Park West,1890,23
+Benton Park West,1884,12
+Benton Park West,1885,8
+Benton Park West,1890,17
+Benton Park West,1888,9
+Benton Park West,1879,3
+Benton Park West,1890,2
+Benton Park West,1910,1
+Benton Park West,1890,3
+Benton Park West,1896,6
+Benton Park West,1908,3
+Benton Park,1894,1
+Benton Park,1906,6
+Benton Park,1894,6
+Benton Park,1907,14
+Benton Park,1886,6
+Marine Villa,1889,2
+Marine Villa,1897,2
+Marine Villa,1902,8
+Marine Villa,1886,2
+Marine Villa,1890,5
+Marine Villa,1890,2
+Marine Villa,1883,10
+Marine Villa,1884,8
+Marine Villa,1889,8
+Marine Villa,1889,9
+Gravois Park,1909,9
+Gravois Park,1919,9
+Gravois Park,1906,0
+Gravois Park,1913,0
+Gravois Park,1912,1
+Gravois Park,1921,2
+Gravois Park,1893,7
+Gravois Park,1890,8
+Gravois Park,1890,9
+Gravois Park,1893,16
+Gravois Park,1890,13
+Gravois Park,1892,15
+Gravois Park,1894,2
+Gravois Park,1893,15
+Gravois Park,2005,18
+Gravois Park,1894,4
+Gravois Park,1896,10
+Gravois Park,1923,16
+Gravois Park,1923,16
+Gravois Park,1923,16
+Gravois Park,1896,8
+Gravois Park,1896,8
+Gravois Park,1893,8
+Gravois Park,1908,8
+Gravois Park,1908,8
+Gravois Park,1923,2
+Gravois Park,1910,9
+Gravois Park,1910,8
+Gravois Park,1914,16
+Gravois Park,1923,11
+Gravois Park,1893,27
+Gravois Park,1905,8
+Gravois Park,1922,0
+Gravois Park,1885,8
+Gravois Park,1889,8
+Gravois Park,1922,0
+Benton Park West,1906,2
+Benton Park West,1904,4
+Benton Park West,1906,11
+Benton Park West,1892,8
+Benton Park West,1899,2
+Gravois Park,1891,14
+Gravois Park,1908,11
+Benton Park West,1907,6
+Tower Grove South,1910,3
+Gravois Park,1880,0
+Gravois Park,1908,11
+Gravois Park,1899,16
+Gravois Park,1909,8
+Dutchtown,1910,4
+Dutchtown,1912,7
+Dutchtown,1908,5
+Gravois Park,1910,8
+Gravois Park,1904,8
+Gravois Park,1907,1
+Gravois Park,1923,8
+Gravois Park,1903,5
+Gravois Park,1911,7
+Gravois Park,1909,8
+Gravois Park,1937,8
+Gravois Park,1914,8
+Gravois Park,1914,16
+Gravois Park,1914,8
+Gravois Park,1895,10
+Gravois Park,1902,14
+Gravois Park,1884,22
+Dutchtown,1904,6
+Dutchtown,1902,0
+Gravois Park,1906,19
+Dutchtown,1890,2
+Dutchtown,1912,2
+Gravois Park,1908,3
+Dutchtown,1897,5
+Dutchtown,1897,10
+Gravois Park,1884,13
+Gravois Park,1897,4
+Gravois Park,1892,21
+Gravois Park,1892,9
+Gravois Park,1884,8
+Gravois Park,1884,15
+Gravois Park,1890,9
+Gravois Park,1883,8
+Gravois Park,1910,9
+Gravois Park,1884,15
+Gravois Park,1885,12
+Gravois Park,1894,12
+Gravois Park,1891,8
+Gravois Park,1961,13
+Gravois Park,1926,8
+Gravois Park,1891,17
+Dutchtown,1892,9
+Dutchtown,1892,4
+Dutchtown,1909,4
+Gravois Park,1879,9
+Gravois Park,1912,11
+Gravois Park,1884,9
+Gravois Park,1894,8
+Gravois Park,1907,10
+Gravois Park,1892,9
+Gravois Park,1926,9
+Gravois Park,1892,7
+Gravois Park,1892,11
+Gravois Park,1888,16
+Gravois Park,1882,13
+Gravois Park,1885,14
+Gravois Park,1884,16
+Gravois Park,1892,0
+Gravois Park,1884,13
+Gravois Park,1881,10
+Dutchtown,1893,1
+Dutchtown,1900,5
+Dutchtown,1908,9
+Gravois Park,1879,22
+Gravois Park,1882,11
+Dutchtown,1893,9
+Marine Villa,1912,0
+Marine Villa,1894,8
+Marine Villa,1895,12
+Marine Villa,1884,3
+Marine Villa,1884,9
+Marine Villa,1874,23
+Marine Villa,1890,10
+Marine Villa,1890,10
+Marine Villa,1885,8
+Marine Villa,1881,13
+Marine Villa,1895,4
+Marine Villa,1895,4
+Marine Villa,1957,5
+Marine Villa,1883,13
+Marine Villa,1896,12
+Marine Villa,1907,5
+Hyde Park,1937,4
+Hyde Park,1905,4
+Benton Park West,1890,6
+Benton Park West,1887,20
+Benton Park West,1883,6
+Benton Park West,1895,10
+Benton Park West,1906,5
+Benton Park West,1893,4
+Benton Park West,1875,5
+Benton Park,1885,2
+Benton Park,1885,3
+The Gate District,2002,1
+Jeff Vanderlou,1895,11
+Jeff Vanderlou,1895,6
+Jeff Vanderlou,1895,6
+Jeff Vanderlou,1884,18
+Jeff Vanderlou,1885,14
+Jeff Vanderlou,1885,8
+Jeff Vanderlou,1885,7
+Jeff Vanderlou,1889,6
+Jeff Vanderlou,1903,5
+Jeff Vanderlou,1898,8
+Jeff Vanderlou,1900,6
+Jeff Vanderlou,1903,6
+Jeff Vanderlou,1903,6
+Jeff Vanderlou,1893,5
+Jeff Vanderlou,1888,7
+Jeff Vanderlou,1893,10
+Jeff Vanderlou,1893,14
+Covenant Blu-Grand Center,1890,1
+Covenant Blu-Grand Center,1887,4
+Covenant Blu-Grand Center,1888,6
+Covenant Blu-Grand Center,1888,3
+Covenant Blu-Grand Center,1884,3
+Covenant Blu-Grand Center,1884,16
+Jeff Vanderlou,1900,5
+Jeff Vanderlou,1886,8
+Jeff Vanderlou,1881,21
+Jeff Vanderlou,1884,15
+Jeff Vanderlou,1888,9
+Jeff Vanderlou,1887,4
+Jeff Vanderlou,1886,29
+Jeff Vanderlou,1885,4
+Jeff Vanderlou,1891,15
+Jeff Vanderlou,1886,7
+Jeff Vanderlou,1894,5
+Jeff Vanderlou,1884,2
+Jeff Vanderlou,1889,16
+Jeff Vanderlou,1888,8
+Jeff Vanderlou,1884,2
+Jeff Vanderlou,1884,1
+Jeff Vanderlou,1884,4
+Jeff Vanderlou,1884,1
+Jeff Vanderlou,1884,4
+Jeff Vanderlou,1956,20
+Jeff Vanderlou,2003,9
+Jeff Vanderlou,1893,10
+Jeff Vanderlou,1893,11
+Jeff Vanderlou,1892,6
+Jeff Vanderlou,1893,6
+Jeff Vanderlou,1893,6
+Jeff Vanderlou,1927,6
+Jeff Vanderlou,1927,6
+Jeff Vanderlou,1927,6
+St. Louis Place,1875,0
+Forest Park South East,1893,0
+Mark Twain,1940,0
+Walnut Park East,1917,3
+Walnut Park East,1927,0
+O'Fallon,1950,2
+Penrose,1930,0
+Jeff Vanderlou,1899,0
+Walnut Park East,1924,0
+Ellendale,1912,0
+Academy,1903,6
+Patch,1890,0
+Academy,1905,0
+Baden,1925,0
+Academy,1897,0
+Walnut Park West,1910,0
+Vandeventer,1893,12
+Dutchtown,1902,0
+Penrose,1929,0
+Kingsway East,1922,0
+Walnut Park West,1950,0
+Jeff Vanderlou,1907,0
+Baden,1911,0
+Greater Ville,1916,0
+Wells Goodfellow,1909,0
+Walnut Park East,1951,0
+Hamilton Heights,1928,0
+Walnut Park West,1928,5
+Walnut Park East,1911,1
+Marine Villa,1890,0
+Patch,1897,2
+Patch,1893,15
+Gravois Park,1880,0
+West End,1906,4
+Jeff Vanderlou,1906,3
+Marine Villa,1896,0
+The Gate District,1902,6
+West End,1895,0
+The Ville,1929,2
+Kingsway East,1889,18
+Vandeventer,1894,0
+O'Fallon,1913,13
+Mark Twain,1927,0
+Wells Goodfellow,1908,0
+Wells Goodfellow,1908,0
+Baden,1940,3
+Greater Ville,1924,25
+Benton Park West,1892,2
+Hyde Park,1924,17
+Hyde Park,1924,17
+The Ville,1885,12
+Forest Park South East,1891,6
+The Ville,1885,1
+The Ville,1889,7
+St. Louis Place,1890,5
+Jeff Vanderlou,1887,28
+Greater Ville,1897,8
+The Ville,1924,5
+The Ville,1928,4
+Lewis Place,1906,5
+Lewis Place,1892,4
+West End,1895,5
+Greater Ville,1903,4
+West End,1900,2
+Forest Park South East,1901,10
+Central West End,1901,5
+Lewis Place,1901,7
+Central West End,1894,1
+Vandeventer,1909,10
+Forest Park South East,1895,7
+The Hill,1890,18
+Old North St. Louis,1894,6
+Greater Ville,1892,10
+Greater Ville,1898,6
+Wells Goodfellow,1903,2
+Near North Riverfront,1894,20
+Vandeventer,1898,1
+West End,1896,20
+West End,1896,20
+Academy,1895,24
+Academy,1903,9
+Academy,1896,8
+Mount Pleasant,1888,7
+Greater Ville,1887,9
+Jeff Vanderlou,1948,2
+Forest Park South East,1893,11
+Forest Park South East,1913,11
+The Gate District,1895,19
+Forest Park South East,1911,10
+Vandeventer,1899,6
+Fountain Park,1894,11
+Lewis Place,1900,2
+Academy,1903,9
+Greater Ville,1911,9
+Cheltenham,1910,9
+Lewis Place,1911,5
+Academy,1902,7
+Benton Park West,1889,10
+Mark Twain,1963,7
+Mark Twain,1931,18
+Forest Park South East,1892,13
+O'Fallon,1892,1
+Mark Twain,1907,2
+Baden,1949,6
+Mount Pleasant,1906,1
+Kingsway East,1933,23
+Benton Park West,1917,2
+Benton Park West,1909,2
+Jeff Vanderlou,1906,23
+Fairground Neighborhood,1910,6
+Jeff Vanderlou,1882,7
+Jeff Vanderlou,1911,11
+Hyde Park,1892,20
+Dutchtown,1895,4
+Dutchtown,1895,4
+Mount Pleasant,1898,10
+Dutchtown,1908,9
+Mount Pleasant,1905,2
+College Hill,1928,2
+College Hill,1892,2
+O'Fallon,1904,2
+O'Fallon,1913,2
+O'Fallon,1910,1
+O'Fallon,1908,2
+O'Fallon,1911,1
+Tower Grove South,1906,6
+Greater Ville,1897,2
+Greater Ville,1894,5
+Greater Ville,1898,1
+The Ville,1925,5
+The Ville,1926,1
+Greater Ville,1901,4
+Lewis Place,1894,5
+Fountain Park,1893,7
+Kingsway East,1906,4
+Hamilton Heights,1904,3
+Hamilton Heights,1904,2
+Hamilton Heights,1905,3
+Hamilton Heights,1905,2
+West End,1906,9
+West End,1904,8
+Greater Ville,1906,5
+Vandeventer,1890,1
+Academy,1891,16
+Hamilton Heights,1906,2
+Hamilton Heights,1912,8
+Hamilton Heights,1909,4
+West End,1908,1
+West End,1908,2
+Hamilton Heights,1908,1
+Hamilton Heights,1914,2
+Forest Park South East,1890,14
+West End,1904,2
+Penrose,1926,8
+Penrose,1926,2
+Penrose,1916,1
+O'Fallon,1925,8
+Greater Ville,1908,2
+Kingsway East,1912,4
+Greater Ville,1909,14
+Greater Ville,1904,1
+Kingsway East,1907,3
+Wells Goodfellow,1926,16
+Vandeventer,1903,1
+Penrose,1953,3
+Academy,1898,11
+Wells Goodfellow,1897,3
+Wells Goodfellow,1901,2
+Kingsway East,1901,4
+Forest Park South East,1892,8
+Academy,1901,8
+Academy,1901,8
+Greater Ville,1908,5
+Baden,1922,9
+Baden,1902,6
+Walnut Park East,1922,3
+Southwest Garden,1905,25
+Mark Twain,1926,2
+Walnut Park East,1914,3
+Walnut Park West,1953,1
+Penrose,1909,2
+Mark Twain,1929,12
+Walnut Park West,1919,2
+Baden,1946,5
+Mark Twain,1928,5
+Jeff Vanderlou,1903,5
+College Hill,1895,2
+Patch,1897,6
+O'Fallon,1889,5
+Wells Goodfellow,1891,8
+Tower Grove South,1928,8
+Penrose,1924,21
+Penrose,1905,2
+Forest Park South East,1890,6
+Franz Park,1888,5
+Walnut Park East,1909,10
+Wells Goodfellow,1905,2
+Wells Goodfellow,1902,1
+Wells Goodfellow,1905,1
+Wells Goodfellow,1905,14
+Wells Goodfellow,1906,1
+Wells Goodfellow,1904,1
+Mark Twain,1973,15
+Walnut Park West,1926,3
+Walnut Park West,1930,4
+Walnut Park West,1951,3
+Baden,1921,1
+Baden,1925,3
+Baden,1923,8
+Baden,1939,5
+Walnut Park East,1962,1
+Mark Twain,1904,4
+St. Louis Place,1926,9
+Walnut Park West,1947,3
+Baden,1925,4
+Benton Park West,1890,7
+Benton Park West,1890,7
+College Hill,1938,23
+Greater Ville,1906,10
+Fountain Park,1905,5
+Lewis Place,1885,6
+Baden,1942,1
+Penrose,1920,2
+Penrose,1925,2
+Penrose,1926,2
+Penrose,1927,5
+Kingsway East,1912,9
+Penrose,1923,2
+Wells Goodfellow,1908,3
+Academy,1906,6
+Baden,1924,1
+Baden,1930,4
+Walnut Park East,1950,2
+Walnut Park East,1921,2
+Baden,1926,4
+Baden,1949,1
+Hamilton Heights,2006,1
+Cheltenham,1909,1
+Penrose,1908,7
+Walnut Park East,1915,8
+Walnut Park West,1923,1
+Baden,1906,1
+Walnut Park East,1962,4
+Baden,1904,4
+Forest Park South East,1895,4
+McKinley Heights,1891,1
+Hyde Park,1905,5
+O'Fallon,1914,5
+Lewis Place,1898,4
+Lewis Place,1898,9
+Academy,1892,9
+Academy,1903,5
+Hamilton Heights,1896,1
+West End,1905,1
+West End,1900,2
+Hamilton Heights,1905,2
+West End,1905,13
+Central West End,1892,3
+West End,1925,3
+Kingsway East,1900,4
+Lewis Place,1894,2
+Academy,1892,4
+West End,1892,8
+O'Fallon,1890,1
+West End,1894,8
+Mount Pleasant,1900,3
+Wells Goodfellow,1908,2
+Franz Park,1889,5
+Walnut Park East,1906,1
+West End,1905,7
+Baden,1923,1
+St. Louis Place,1891,3
+O'Fallon,1906,1
+Baden,1939,4
+Penrose,1924,2
+Academy,1899,4
+Penrose,1931,2
+Baden,1948,3
+West End,1886,2
+Baden,1915,2
+Hyde Park,1911,6
+Cheltenham,1942,3
+Clayton-Tamm,1902,4
+Kingsway East,1920,7
+Mark Twain,1923,4
+Kingsway East,1905,4
+St. Louis Place,1902,10
+Soulard,1881,17
+Mark Twain,1910,3
+North Riverfront,1948,12
+Greater Ville,1902,12
+Dutchtown,1910,2
+O'Fallon,1906,7
+O'Fallon,1902,11
+Greater Ville,1881,5
+Academy,1896,4
+West End,1906,5
+Hamilton Heights,1916,1
+Kingsway East,1903,2
+Kingsway West,1910,4
+Wells Goodfellow,1924,3
+Greater Ville,1912,5
+Wells Goodfellow,1900,6
+Walnut Park East,1914,3
+Mark Twain,1933,1
+Penrose,1904,1
+Wells Goodfellow,1884,2
+Penrose,1920,2
+Wells Goodfellow,1907,3
+Walnut Park East,1919,1
+Baden,1907,9
+The Ville,1892,1
+Fairground Neighborhood,1902,1
+O'Fallon,1922,13
+Kingsway East,1907,3
+Mark Twain,1927,4
+Walnut Park East,1915,3
+West End,1906,2
+Penrose,1936,2
+Walnut Park West,1948,1
+Forest Park South East,1895,10
+Penrose,1933,11
+Baden,1906,4
+Soulard,1890,18
+Baden,1928,7
+Hyde Park,1909,12
+Greater Ville,1910,3
+Greater Ville,1911,2
+Lewis Place,1906,3
+Walnut Park East,1923,2
+Baden,1904,1
+O'Fallon,1908,10
+Vandeventer,1890,1
+Dutchtown,1908,1
+Forest Park South East,1890,6
+Jeff Vanderlou,1894,4
+Jeff Vanderlou,1889,6
+Carondelet,1904,11
+Hyde Park,1899,27
+The Ville,1926,9
+Lewis Place,1906,5
+Lewis Place,1895,9
+Vandeventer,1886,8
+Hamilton Heights,1910,20
+Hamilton Heights,1908,7
+Forest Park South East,1885,11
+Forest Park South East,1896,6
+Academy,1902,7
+Wells Goodfellow,1923,9
+Academy,1906,8
+Greater Ville,1910,7
+Greater Ville,1973,22
+St. Louis Place,1890,11
+Greater Ville,1915,11
+St. Louis Place,1896,22
+St. Louis Place,1904,8
+Jeff Vanderlou,1893,6
+Dutchtown,1898,15
+West End,1893,11
+Forest Park South East,1884,13
+Academy,1895,6
+Jeff Vanderlou,1889,8
+Fountain Park,1900,19
+West End,1894,8
+Lewis Place,1894,9
+Fountain Park,1900,5
+Forest Park South East,1894,10
+Baden,1926,3
+Jeff Vanderlou,1906,11
+Jeff Vanderlou,1887,10
+Gravois Park,1885,20
+Jeff Vanderlou,1887,10
+Jeff Vanderlou,1906,10
+Jeff Vanderlou,1906,13
+Jeff Vanderlou,1888,7
+Jeff Vanderlou,1884,10
+Jeff Vanderlou,1889,20
+Jeff Vanderlou,1892,10
+Jeff Vanderlou,1895,8
+Jeff Vanderlou,1899,17
+Jeff Vanderlou,1893,1
+St. Louis Place,1896,11
+Hyde Park,1890,20
+Jeff Vanderlou,1909,6
+Fountain Park,1893,4
+West End,1904,8
+Penrose,1924,20
+Penrose,1929,8
+Wells Goodfellow,1909,1
+Wells Goodfellow,1910,6
+Baden,1932,9
+Penrose,1925,2
+Botanical Heights,1910,12
+Botanical Heights,1900,13
+Forest Park South East,1888,10
+Forest Park South East,1893,8
+Botanical Heights,1920,8
+Jeff Vanderlou,1914,15
+Walnut Park East,1953,2
+Walnut Park East,1909,3
+Walnut Park East,1927,11
+Penrose,1926,4
+O'Fallon,1909,1
+Greater Ville,1890,16
+Forest Park South East,1884,4
+O'Fallon,1880,7
+Walnut Park East,1921,2
+Wells Goodfellow,1905,7
+Jeff Vanderlou,1904,7
+Benton Park,1897,3
+Jeff Vanderlou,1892,10
+Forest Park South East,1884,4
+Baden,1914,7
+Penrose,1914,2
+Walnut Park West,1927,7
+Jeff Vanderlou,1903,7
+Jeff Vanderlou,1882,6
+Fairground Neighborhood,1892,22
+Fountain Park,1895,4
+Fountain Park,1899,5
+Academy,1894,8
+Forest Park South East,1892,6
+Academy,1895,4
+North Pointe,1938,10
+Hyde Park,1902,11
+North Pointe,1924,1
+Mark Twain,1909,3
+St. Louis Place,1908,5
+Fairground Neighborhood,1893,20
+Baden,1911,4
+Patch,1890,25
+Hamilton Heights,1907,10
+Penrose,1927,7
+O'Fallon,1909,3
+Greater Ville,1895,1
+Walnut Park East,1926,3
+Walnut Park East,1922,12
+Baden,1929,11
+Walnut Park West,1910,8
+Mark Twain,1911,14
+Walnut Park East,1919,7
+Wells Goodfellow,1904,2
+Mark Twain,1923,1
+Kingsway East,1893,20
+Penrose,1923,1
+Mount Pleasant,1870,2
+Jeff Vanderlou,1902,6
+Covenant Blu-Grand Center,1890,6
+Penrose,1951,12
+Penrose,1951,12
+O'Fallon,1913,7
+Greater Ville,1915,13
+Kingsway East,1894,13
+Jeff Vanderlou,1884,20
+St. Louis Place,1890,5
+Jeff Vanderlou,1928,10
+Jeff Vanderlou,1883,18
+Jeff Vanderlou,1885,23
+Jeff Vanderlou,1879,9
+Jeff Vanderlou,1888,26
+Jeff Vanderlou,1894,24
+Jeff Vanderlou,1899,11
+Jeff Vanderlou,1893,8
+Jeff Vanderlou,1893,26
+Jeff Vanderlou,1893,27
+Jeff Vanderlou,1903,11
+Forest Park South East,1900,14
+Wells Goodfellow,1914,16
+Ellendale,1947,11
+St. Louis Place,1891,17
+Academy,1891,10
+Lewis Place,1890,5
+West End,1909,16
+Academy,1904,10
+College Hill,1913,21
+Baden,1894,6
+Jeff Vanderlou,1900,11
+Jeff Vanderlou,1894,8
+Jeff Vanderlou,1898,9
+Jeff Vanderlou,1930,9
+Jeff Vanderlou,1884,4
+St. Louis Place,1904,10
+Jeff Vanderlou,1904,8
+Jeff Vanderlou,1893,6
+Jeff Vanderlou,1899,10
+Jeff Vanderlou,1908,6
+Fairground Neighborhood,1893,20
+Greater Ville,1906,12
+Lewis Place,1901,14
+Covenant Blu-Grand Center,1937,5
+Fountain Park,1893,5
+Lewis Place,1905,8
+Hamilton Heights,1906,2
+Penrose,1925,7
+Penrose,1910,12
+Greater Ville,1926,11
+Penrose,1921,8
+Jeff Vanderlou,1903,5
+Walnut Park East,1900,10
+Walnut Park East,1927,10
+Jeff Vanderlou,1893,8
+Jeff Vanderlou,1883,11
+Greater Ville,1916,4
+Wells Goodfellow,1925,6
+St. Louis Place,1898,5
+St. Louis Place,1903,9
+West End,1923,1
+Wells Goodfellow,1926,11
+Baden,1904,14
+Greater Ville,1903,8
+Fountain Park,1896,5
+The Ville,1905,8
+Hyde Park,1895,6
+Jeff Vanderlou,1893,10
+Carondelet,1906,12
+Clayton-Tamm,1951,1
+Lewis Place,1899,3
+Forest Park South East,1895,3
+Benton Park,1880,6
+Benton Park West,1906,2
+Mount Pleasant,1892,2
+Botanical Heights,1897,7
+Botanical Heights,1926,6
+South Hampton,1956,4
+Fountain Park,1904,1
+Tower Grove South,1906,6
+Kingsway West,1909,2
+Forest Park South East,1904,5
+Tower Grove South,1893,2
+Benton Park,1890,8
+Kingsway East,1897,1
+Wells Goodfellow,1908,7
+Lewis Place,1921,5
+Benton Park West,1887,16
+Lewis Place,1889,7
+Shaw,1913,6
+Greater Ville,1895,5
+Greater Ville,1906,15
+Lewis Place,1897,4
+O'Fallon,1957,1
+Hamilton Heights,1906,7
+The Ville,1891,3
+Kingsway East,1907,3
+Wells Goodfellow,1906,2
+Baden,1906,4
+Mark Twain,1909,7
+Kingsway East,1908,6
+Penrose,1916,2
+Greater Ville,1912,12
+Baden,1897,20
+Fountain Park,1902,1
+College Hill,1890,22
+College Hill,1893,4
+Walnut Park West,1962,10
+Academy,1906,4
+Academy,1904,16
+Forest Park South East,1907,5
+Walnut Park East,1911,3
+Lewis Place,1903,3
+College Hill,1886,11
+Central West End,1905,9
+College Hill,1890,10
+Penrose,1906,11
+Fairground Neighborhood,1904,6
+Hamilton Heights,1906,8
+Greater Ville,1895,15
+The Ville,1891,7
+Near North Riverfront,1885,18
+Visitation Park,1906,9
+O'Fallon,1897,5
+O'Fallon,1915,2
+The Ville,1906,1
+The Ville,1886,4
+The Ville,1927,12
+Covenant Blu-Grand Center,1888,9
+Fountain Park,1896,5
+West End,1905,2
+Hamilton Heights,1907,7
+West End,1901,8
+Penrose,1923,9
+Vandeventer,1893,10
+Tower Grove South,1907,10
+Academy,1905,11
+Botanical Heights,1957,3
+Greater Ville,1888,8
+Vandeventer,1947,9
+Walnut Park East,1914,3
+Wells Goodfellow,1908,4
+Fairground Neighborhood,1899,6
+The Ville,1907,13
+Walnut Park West,1937,5
+Greater Ville,1872,5
+Patch,1897,5
+Academy,1901,18
+Hamilton Heights,1896,3
+West End,1897,8
+West End,1899,11
+West End,1905,24
+Lewis Place,1890,13
+West End,1897,12
+Academy,1895,16
+Academy,1897,9
+Academy,1898,9
+Academy,1901,24
+Greater Ville,1902,5
+College Hill,1890,1
+Greater Ville,1892,9
+Fountain Park,1892,9
+Mark Twain,1901,23
+Baden,1927,12
+The Ville,1947,1
+The Ville,1890,9
+The Ville,1893,4
+Covenant Blu-Grand Center,1884,7
+Fountain Park,1902,6
+Lewis Place,1891,7
+Wells Goodfellow,1927,2
+Hamilton Heights,1910,19
+Academy,1900,5
+The Ville,1891,8
+Walnut Park East,1922,1
+Greater Ville,1897,4
+Vandeventer,1892,10
+Vandeventer,1892,10
+Penrose,1908,4
+Wells Goodfellow,1905,8
+The Ville,1888,5
+The Ville,1888,4
+Fairground Neighborhood,1887,9
+Fairground Neighborhood,1888,11
+Benton Park,1890,2
+Benton Park West,1890,1
+Benton Park West,1894,10
+Covenant Blu-Grand Center,1891,2
+Jeff Vanderlou,1892,6
+Jeff Vanderlou,1922,4
+Fairground Neighborhood,1904,6
+College Hill,1890,22
+College Hill,1895,11
+Dutchtown,1922,7
+Dutchtown,1924,3
+Mount Pleasant,1908,6
+Mount Pleasant,1908,3
+Mount Pleasant,1907,1
+College Hill,1906,4
+O'Fallon,1910,2
+O'Fallon,1912,6
+O'Fallon,1906,2
+Carondelet,1902,16
+Greater Ville,1906,11
+Greater Ville,1906,5
+The Ville,1926,2
+The Ville,1890,11
+Greater Ville,1911,4
+Greater Ville,1905,3
+Vandeventer,1895,3
+Vandeventer,1899,3
+Fountain Park,1889,4
+Fountain Park,1906,5
+Fountain Park,1892,6
+Wells Goodfellow,1906,2
+Hamilton Heights,1902,2
+O'Fallon,1916,4
+Greater Ville,1911,2
+Hamilton Heights,1906,2
+Hamilton Heights,1909,2
+Hamilton Heights,1914,2
+Hamilton Heights,1909,2
+Penrose,1924,1
+Penrose,1930,1
+Penrose,1916,2
+Penrose,1952,2
+Kingsway East,1925,7
+Kingsway East,1923,3
+Wells Goodfellow,1916,21
+Wells Goodfellow,1911,3
+Wells Goodfellow,1909,6
+Wells Goodfellow,1926,2
+Lewis Place,1920,5
+Wells Goodfellow,1924,4
+O'Fallon,1911,1
+Kingsway East,1901,4
+O'Fallon,1913,2
+Forest Park South East,1906,6
+Tower Grove South,1913,6
+Mark Twain,1940,2
+Forest Park South East,1897,3
+Walnut Park East,1950,13
+Greater Ville,1908,1
+Baden,1902,6
+Wells Goodfellow,1960,12
+Baden,1924,1
+Hamilton Heights,1911,1
+Mark Twain,1910,2
+Mark Twain,1912,10
+Walnut Park West,1916,10
+Walnut Park West,1962,18
+Walnut Park West,1947,3
+Mark Twain,1923,15
+Wells Goodfellow,1911,3
+Walnut Park East,1925,2
+Mark Twain I-70 Industrial,1946,1
+Mark Twain,1928,5
+Mark Twain,1928,7
+Walnut Park West,1929,1
+Walnut Park West,1925,10
+Wells Goodfellow,1925,4
+Fairground Neighborhood,1972,6
+Baden,1900,1
+Walnut Park West,1948,1
+Penrose,1908,7
+Wells Goodfellow,1892,14
+Kingsway West,1891,1
+Mark Twain,1928,8
+Mark Twain,1908,1
+Mark Twain,1908,8
+Walnut Park East,1904,2
+Walnut Park East,1900,5
+Walnut Park East,1920,1
+Wells Goodfellow,1906,4
+Wells Goodfellow,1913,7
+Walnut Park East,1921,5
+Walnut Park East,1909,3
+Walnut Park East,1958,3
+Walnut Park East,1959,2
+Walnut Park East,1927,3
+Walnut Park West,1908,11
+Walnut Park West,1958,7
+Walnut Park West,1926,4
+Baden,1911,3
+Baden,1949,1
+Baden,1949,1
+Baden,1907,6
+Baden,1908,4
+Walnut Park East,1923,7
+Walnut Park East,1926,14
+Mark Twain,1911,14
+Mark Twain,1912,2
+Baden,1904,10
+Mark Twain,1922,2
+Dutchtown,1901,2
+Mount Pleasant,1910,1
+Mount Pleasant,1924,2
+Dutchtown,1925,2
+Carondelet,1907,9
+Carondelet,1890,7
+O'Fallon,1893,11
+O'Fallon,1893,11
+Penrose,1925,2
+Greater Ville,1906,5
+Greater Ville,1921,2
+Hamilton Heights,1904,4
+Hamilton Heights,1903,2
+Hamilton Heights,1906,3
+West End,1904,2
+West End,1904,2
+Penrose,1909,2
+Penrose,1911,8
+Penrose,1895,2
+Penrose,1937,1
+O'Fallon,1915,5
+Greater Ville,1906,6
+Greater Ville,1925,5
+Greater Ville,1925,2
+Wells Goodfellow,1925,1
+Botanical Heights,1908,10
+O'Fallon,1913,2
+O'Fallon,1924,5
+Lewis Place,1924,4
+Walnut Park East,1907,1
+Walnut Park East,1917,1
+Baden,1946,6
+Walnut Park East,1912,5
+Mark Twain,1926,3
+Baden,1947,1
+The Ville,1883,1
+Walnut Park West,1952,4
+Mark Twain,1915,4
+Walnut Park East,1906,2
+Walnut Park East,1905,2
+Baden,1950,1
+Walnut Park East,1921,2
+Baden,1950,3
+Hyde Park,1899,8
+Dutchtown,1894,1
+The Ville,1871,5
+The Ville,1891,9
+Lewis Place,1894,6
+Lewis Place,1903,1
+Kingsway East,1891,21
+Kingsway East,1896,5
+Hamilton Heights,1904,2
+Hamilton Heights,1904,3
+West End,1904,4
+Greater Ville,1892,5
+Hamilton Heights,1895,3
+West End,1909,6
+Hamilton Heights,1905,2
+Central West End,1892,10
+Forest Park South East,1884,13
+Baden,1910,7
+Penrose,1936,2
+Penrose,1936,5
+Penrose,1928,1
+Kingsway East,1897,2
+Kingsway East,1895,6
+Kingsway East,1890,4
+Kingsway East,1890,5
+Kingsway East,1897,7
+Kingsway East,1910,7
+Academy,1898,3
+West End,1910,6
+Baden,1905,5
+Penrose,1896,1
+O'Fallon,1892,9
+Franz Park,1911,2
+Wells Goodfellow,1904,15
+Walnut Park West,1908,13
+Mark Twain,1923,16
+Walnut Park East,1945,2
+Walnut Park East,1900,3
+O'Fallon,1915,7
+Hamilton Heights,1904,3
+Southwest Garden,1898,5
+Academy,1904,5
+Walnut Park East,1929,8
+Penrose,1906,12
+O'Fallon,1885,1
+Penrose,1953,2
+Jeff Vanderlou,1885,6
+Wells Goodfellow,1911,4
+Walnut Park East,1950,9
+Hyde Park,1914,5
+Hyde Park,1899,13
+College Hill,1886,2
+Penrose,1923,9
+O'Fallon,1913,2
+O'Fallon,1912,2
+Jeff Vanderlou,1906,4
+Greater Ville,1908,1
+Greater Ville,1906,8
+Greater Ville,1895,8
+Greater Ville,1908,5
+Greater Ville,1892,3
+Greater Ville,1911,6
+Fountain Park,1892,1
+Fountain Park,1911,5
+Hamilton Heights,1906,3
+West End,1906,1
+Hamilton Heights,1904,2
+Hamilton Heights,1913,2
+Penrose,1927,2
+Greater Ville,1910,1
+Kingsway East,1935,4
+Greater Ville,1914,8
+Kingsway West,1923,2
+Wells Goodfellow,1907,4
+Wells Goodfellow,1922,3
+Wells Goodfellow,1926,1
+Wells Goodfellow,1914,1
+Kingsway West,1910,1
+Baden,1904,6
+Walnut Park East,1911,2
+Walnut Park West,1914,3
+Penrose,1910,2
+Mark Twain,1926,1
+Mount Pleasant,1904,2
+Greater Ville,1996,4
+Hamilton Heights,2000,8
+Tower Grove South,1894,5
+Wells Goodfellow,1905,2
+Baden,1920,1
+Clayton-Tamm,1900,3
+O'Fallon,1881,1
+Mark Twain,1903,4
+Mark Twain,1908,2
+Wells Goodfellow,1926,1
+Wells Goodfellow,1925,8
+Walnut Park West,1927,7
+Walnut Park East,1940,1
+Penrose,1907,7
+Walnut Park East,1909,2
+Baden,1900,3
+Fox Park,1884,24
+Dutchtown,1916,8
+Baden,1926,6
+Penrose,1887,18
+Penrose,1921,7
+Mark Twain,1940,1
+Walnut Park East,1915,1
+Wells Goodfellow,1910,3
+Walnut Park West,1951,4
+Walnut Park West,1928,4
+O'Fallon,1903,2
+Greater Ville,1895,8
+Academy,1896,5
+Hamilton Heights,1889,2
+West End,1905,5
+Baden,1929,1
+Academy,1892,5
+Greater Ville,1889,2
+Baden,1896,1
+Walnut Park East,1908,1
+Baden,1939,4
+Penrose,1896,2
+Baden,1903,1
+Kingsway East,1885,4
+Wells Goodfellow,1952,21
+Greater Ville,1903,1
+Greater Ville,1892,9
+The Ville,1883,2
+Fairground Neighborhood,1883,21
+Jeff Vanderlou,1904,6
+West End,1894,9
+Fairground Neighborhood,1898,11
+O'Fallon,1911,5
+College Hill,1883,6
+Jeff Vanderlou,1900,5
+The Ville,1889,8
+Greater Ville,1922,21
+Greater Ville,1906,5
+The Ville,1924,7
+The Ville,1909,7
+The Ville,1913,7
+The Ville,1900,14
+The Ville,1924,15
+The Ville,1913,9
+Greater Ville,1905,12
+Greater Ville,1895,6
+Vandeventer,1887,11
+Vandeventer,1884,18
+Vandeventer,1894,15
+Fountain Park,1904,9
+Lewis Place,1907,3
+Academy,1892,5
+Greater Ville,1911,5
+Lewis Place,1906,11
+Hamilton Heights,1909,2
+West End,1907,10
+Forest Park South East,1911,6
+Forest Park South East,1896,6
+Greater Ville,1922,7
+Wells Goodfellow,1927,8
+Wells Goodfellow,1904,20
+Lewis Place,1896,23
+Vandeventer,1898,13
+West End,1908,10
+Wells Goodfellow,1909,8
+Wells Goodfellow,1914,9
+Wells Goodfellow,1922,10
+Wells Goodfellow,1968,10
+Wells Goodfellow,1927,16
+Wells Goodfellow,1912,24
+Hamilton Heights,1906,8
+Hamilton Heights,1908,2
+Wells Goodfellow,1924,14
+Mark Twain I-70 Industrial,1925,18
+Greater Ville,1906,8
+Greater Ville,1908,9
+Wells Goodfellow,1917,10
+Forest Park South East,1893,7
+Academy,1899,9
+Greater Ville,1906,5
+Wells Goodfellow,1926,7
+Benton Park,1870,3
+Fairground Neighborhood,1895,26
+Mount Pleasant,1896,5
+Academy,1901,3
+Greater Ville,1901,15
+Fountain Park,1904,9
+Fountain Park,1893,10
+Fountain Park,1895,5
+Academy,1896,21
+Academy,1896,21
+Academy,1899,14
+Academy,1899,5
+Vandeventer,1896,24
+Hamilton Heights,1907,22
+Hamilton Heights,1905,12
+Greater Ville,1904,20
+Lewis Place,1889,6
+Academy,1898,9
+Academy,1896,8
+Academy,1905,5
+Academy,1894,13
+Wells Goodfellow,1908,10
+Academy,1899,8
+Jeff Vanderlou,1902,27
+Fox Park,1898,12
+Hyde Park,1902,25
+Greater Ville,1925,22
+Jeff Vanderlou,1909,6
+Greater Ville,1904,20
+The Ville,1906,16
+The Ville,1894,11
+Greater Ville,1900,11
+Vandeventer,1899,4
+Fountain Park,1890,8
+Lewis Place,1892,4
+Lewis Place,1891,5
+Academy,1894,11
+Hamilton Heights,1907,3
+Vandeventer,1885,9
+Hamilton Heights,1908,2
+O'Fallon,1902,9
+Wells Goodfellow,1908,8
+Academy,1898,9
+Academy,1902,9
+Academy,1904,9
+Wells Goodfellow,1914,13
+Jeff Vanderlou,1907,15
+Jeff Vanderlou,1907,15
+Wells Goodfellow,1926,8
+Wells Goodfellow,1926,8
+Greater Ville,1909,6
+Wells Goodfellow,1908,7
+Greater Ville,1897,8
+The Ville,1902,7
+Academy,1892,5
+Academy,1901,7
+Hamilton Heights,1901,9
+Hamilton Heights,1894,15
+West End,1911,16
+West End,1897,14
+Academy,1897,9
+Academy,1906,8
+West End,1882,11
+Dutchtown,1902,5
+Hamilton Heights,1905,10
+Penrose,1906,11
+Hyde Park,1924,13
+Hyde Park,1925,12
+Hyde Park,1925,12
+Dutchtown,1906,7
+Gravois Park,1916,13
+Gravois Park,1910,11
+Fairground Neighborhood,1884,10
+Fairground Neighborhood,1887,6
+Fox Park,1908,11
+Hyde Park,1912,13
+Hyde Park,1890,24
+Hyde Park,1913,10
+College Hill,1895,11
+College Hill,1895,11
+College Hill,1845,7
+College Hill,1853,9
+College Hill,1875,28
+Fairground Neighborhood,1887,13
+Fairground Neighborhood,1894,28
+Fairground Neighborhood,1909,13
+Marine Villa,1926,5
+Dutchtown,1903,4
+Mount Pleasant,1902,9
+Dutchtown,1909,6
+College Hill,1911,17
+College Hill,1911,17
+Fairground Neighborhood,1906,23
+O'Fallon,1910,5
+O'Fallon,1886,2
+O'Fallon,1928,8
+O'Fallon,1911,2
+O'Fallon,1912,1
+O'Fallon,1911,14
+Fox Park,1884,26
+Hyde Park,1913,12
+O'Fallon,1912,10
+O'Fallon,1907,7
+O'Fallon,1900,7
+Greater Ville,1908,8
+Greater Ville,1908,3
+Kingsway East,1889,19
+Hamilton Heights,1895,2
+Hamilton Heights,1907,7
+Greater Ville,1906,4
+West End,1908,6
+Hamilton Heights,1909,8
+Hamilton Heights,1909,2
+Hamilton Heights,1929,13
+Hamilton Heights,1906,4
+Hamilton Heights,1910,2
+Hamilton Heights,1908,2
+Hamilton Heights,1924,3
+Hamilton Heights,1914,3
+Forest Park South East,1892,8
+Baden,1939,9
+Penrose,1923,4
+Penrose,1923,7
+Penrose,1915,9
+Penrose,1922,2
+Penrose,1927,2
+Penrose,1927,4
+Penrose,1952,7
+O'Fallon,1907,13
+O'Fallon,1916,7
+Greater Ville,1919,16
+Greater Ville,1914,6
+Greater Ville,1925,18
+Kingsway East,1893,8
+Kingsway West,1911,1
+Kingsway West,1907,4
+Kingsway West,1906,5
+Wells Goodfellow,1908,2
+Wells Goodfellow,1908,2
+Wells Goodfellow,1906,3
+Wells Goodfellow,1906,5
+Tower Grove South,1923,5
+Penrose,1928,8
+Kingsway East,1925,5
+Wells Goodfellow,1914,3
+O'Fallon,1910,16
+Wells Goodfellow,1906,4
+Wells Goodfellow,1920,8
+Walnut Park East,1927,9
+Walnut Park East,1919,5
+Greater Ville,1908,5
+Greater Ville,1908,7
+Jeff Vanderlou,1915,25
+Wells Goodfellow,1928,10
+Wells Goodfellow,1928,9
+Wells Goodfellow,1928,9
+Wells Goodfellow,1924,14
+Wells Goodfellow,1923,4
+Wells Goodfellow,1911,3
+Baden,1904,3
+Baden,1897,16
+Baden,1928,5
+Walnut Park East,1928,2
+Walnut Park East,1939,2
+Walnut Park West,1911,9
+Walnut Park West,1932,5
+Walnut Park West,1937,4
+Walnut Park West,1924,4
+Baden,1913,4
+Penrose,1939,2
+Mark Twain,1922,7
+Walnut Park West,1951,4
+Walnut Park East,1956,3
+Walnut Park East,1922,2
+Walnut Park East,1922,3
+Walnut Park East,1949,11
+Mark Twain,1930,5
+Mark Twain,1960,10
+Baden,1946,7
+Wells Goodfellow,1906,7
+Mark Twain,1923,9
+Mark Twain,1922,8
+Walnut Park West,1929,5
+Walnut Park West,1926,4
+Walnut Park West,1924,10
+Walnut Park West,1915,11
+Walnut Park West,1928,5
+Walnut Park West,1929,4
+Walnut Park West,1913,11
+Penrose,1904,5
+Kingsway West,1906,10
+Mark Twain,1908,5
+Walnut Park East,1906,2
+Walnut Park East,1916,10
+Wells Goodfellow,1905,9
+Baden,1909,4
+Walnut Park East,1909,10
+Walnut Park West,1928,5
+Walnut Park West,1928,10
+Walnut Park West,1927,7
+Walnut Park East,1907,12
+Baden,1955,1
+Mark Twain,1910,8
+Bevo Mill,1921,8
+Walnut Park West,1926,11
+Walnut Park West,1925,12
+Bevo Mill,1925,9
+Wells Goodfellow,1909,15
+Baden,1910,5
+Forest Park South East,1889,7
+Kingsway East,1925,5
+Gravois Park,1914,11
+Gravois Park,1909,8
+Fairground Neighborhood,1885,4
+Benton Park West,1888,22
+Hyde Park,1910,21
+Hyde Park,1890,20
+Hyde Park,1915,12
+Fairground Neighborhood,1919,6
+Mount Pleasant,1925,5
+Carondelet,1908,13
+The Ville,1906,3
+Greater Ville,1896,12
+Baden,1927,6
+Baden,1942,3
+Penrose,1926,8
+Kingsway East,1914,19
+Kingsway East,1913,5
+Kingsway West,1923,4
+Lewis Place,1916,9
+Mark Twain,1913,8
+Greater Ville,1912,5
+Walnut Park West,1925,11
+Botanical Heights,1921,18
+Walnut Park East,1949,2
+Walnut Park East,1922,5
+Walnut Park East,1907,3
+Mark Twain,1906,7
+Baden,1907,9
+Walnut Park West,1924,10
+Walnut Park West,1927,9
+Walnut Park West,1928,14
+Walnut Park West,1926,10
+Walnut Park East,1924,2
+Baden,1900,13
+Mark Twain,1923,3
+Benton Park,1890,7
+Fairground Neighborhood,1901,8
+Fairground Neighborhood,1892,7
+Fairground Neighborhood,1894,10
+Tower Grove East,1884,9
+College Hill,1901,17
+College Hill,1901,17
+O'Fallon,1901,17
+O'Fallon,1910,15
+O'Fallon,1911,9
+O'Fallon,1895,15
+Greater Ville,1897,10
+Fountain Park,1892,5
+West End,1898,5
+Forest Park South East,1884,7
+Penrose,1915,2
+Wells Goodfellow,1919,7
+Southwest Garden,1891,4
+Forest Park South East,1891,6
+Lewis Place,1906,7
+Mark Twain,1922,7
+Jeff Vanderlou,1905,11
+Jeff Vanderlou,1901,6
+Jeff Vanderlou,1909,19
+Greater Ville,1894,10
+Walnut Park West,1941,7
+Mount Pleasant,1890,2
+O'Fallon,1902,7
+Walnut Park East,1909,15
+Baden,1922,6
+Benton Park,1885,11
+College Hill,1895,27
+Mount Pleasant,1890,5
+Baden,1926,3
+Penrose,1909,13
+Penrose,1884,8
+Penrose,1929,1
+Vandeventer,1895,7
+Mark Twain,1924,8
+Jeff Vanderlou,1907,6
+North Pointe,1931,11
+Mark Twain,1906,8
+Jeff Vanderlou,2003,19
+Benton Park West,1925,10
+Benton Park West,1895,2
+Mount Pleasant,1911,3
+College Hill,1922,19
+College Hill,1907,3
+Fairground Neighborhood,1895,8
+O'Fallon,1900,5
+O'Fallon,1911,12
+O'Fallon,1912,7
+Greater Ville,1908,15
+The Ville,1902,11
+The Ville,1891,10
+Greater Ville,1909,5
+Hamilton Heights,1904,10
+Baden,1931,9
+Penrose,1890,11
+Penrose,1890,11
+Penrose,1928,16
+Penrose,1915,8
+Penrose,1924,7
+O'Fallon,1913,5
+Greater Ville,1910,8
+Greater Ville,1928,5
+Wells Goodfellow,1911,27
+Baden,1903,5
+Wells Goodfellow,1955,2
+Walnut Park East,1914,10
+Walnut Park West,1929,6
+Walnut Park East,1926,9
+Mark Twain,1912,8
+Walnut Park East,1914,3
+Wells Goodfellow,1909,7
+Baden,1903,7
+Mark Twain,1908,5
+Mark Twain,1965,9
+Walnut Park East,1923,3
+Baden,1915,9
+Walnut Park East,1922,10
+Greater Ville,1890,25
+Greater Ville,1929,8
+Lewis Place,1890,6
+Academy,1905,3
+Penrose,1913,2
+Penrose,1900,9
+Penrose,1953,16
+Greater Ville,1912,8
+Kingsway East,1904,5
+Mark Twain,1931,8
+Walnut Park West,1926,3
+Mark Twain,1925,4
+Baden,1934,6
+Baden,1923,5
+Fairground Neighborhood,1891,11
+Academy,1894,4
+Visitation Park,1883,7
+Penrose,1933,11
+Kingsway East,1891,7
+Greater Ville,1914,2
+Walnut Park East,1900,12
+Kingsway East,1912,2
+Greater Ville,1905,16
+Benton Park West,1893,7
+O'Fallon,1892,2
+The Ville,1902,1
+West End,1905,11
+West End,1906,7
+Soulard,1885,26
+Forest Park South East,1905,6
+Walnut Park West,1925,12
+College Hill,1907,9
+Mount Pleasant,1906,7
+Dutchtown,1913,5
+Botanical Heights,1924,2
+Lewis Place,1897,4
+Walnut Park East,1947,2
+West End,1905,7
+West End,1905,7
+Marine Villa,1907,9
+Mount Pleasant,1891,3
+Clayton-Tamm,1880,4
+Hamilton Heights,1908,5
+Academy,1899,18
+Wells Goodfellow,1904,11
+The Gate District,1897,11
+West End,1905,19
+Academy,1894,11
+Visitation Park,1896,12
+West End,1890,1
+West End,1906,5
+Benton Park West,1912,12
+Benton Park,1881,13
+Dutchtown,1905,6
+Penrose,1940,7
+Hamilton Heights,1905,8
+Hamilton Heights,1909,2
+Forest Park South East,1922,14
+Forest Park South East,1908,8
+Forest Park South East,1908,8
+Baden,1928,3
+Tower Grove South,1915,5
+College Hill,1884,2
+Dutchtown,1893,5
+Forest Park South East,1926,4
+Baden,1927,9
+Benton Park West,1925,7
+Forest Park South East,1896,15
+Bevo Mill,1925,4
+Lewis Place,1911,5
+Hyde Park,1890,11
+O'Fallon,1913,2
+Hamilton Heights,1906,2
+Greater Ville,1885,4
+Academy,1892,9
+Greater Ville,1906,11
+Hamilton Heights,1901,22
+O'Fallon,1907,8
+O'Fallon,1893,15
+Penrose,1907,2
+Jeff Vanderlou,1973,9
+Fairground Neighborhood,1904,11
+The Gate District,1889,4
+Central West End,1892,28
+Walnut Park West,1936,13
+The Hill,1923,16
+The Ville,1900,24
+Academy,1905,15
+O'Fallon,1915,9
+Forest Park South East,1895,5
+Walnut Park East,1919,5
+Mark Twain,1914,2
+Walnut Park East,1959,12
+Patch,1893,11
+Walnut Park West,1931,3
+Tower Grove South,1915,4
+Academy,1899,11
+Walnut Park West,1950,22
+Vandeventer,1884,12
+Wells Goodfellow,1890,21
+Vandeventer,1903,16
+Vandeventer,1897,11
+Wells Goodfellow,1912,13
+O'Fallon,1965,4
+West End,1896,8
+West End,1896,12
+West End,1901,24
+West End,1907,28
+West End,1902,11
+West End,1905,22
+Academy,1904,8
+Academy,1904,8
+O'Fallon,1916,20
+West End,1900,27
+Academy,1890,9
+Academy,1896,8
+Dutchtown,1909,10
+Fairground Neighborhood,1906,8
+West End,1924,14
+Shaw,1906,12
+Forest Park South East,1910,10
+Forest Park South East,1893,8
+Forest Park South East,1905,11
+Forest Park South East,1895,15
+Kings Oak,1923,6
+Tower Grove South,1921,6
+Gravois Park,1891,8
+The Ville,1884,8
+Wells Goodfellow,1908,17
+Walnut Park West,1910,6
+Baden,1913,10
+Hyde Park,1883,13
+West End,1902,14
+Academy,1897,11
+Fairground Neighborhood,1898,9
+Jeff Vanderlou,1903,11
+Forest Park South East,1908,10
+Dutchtown,1910,13
+Baden,1908,9
+Mark Twain,1930,14
+Penrose,1926,10
+Walnut Park East,1950,1
+Baden,1908,4
+Walnut Park East,1927,9
+Academy,1896,9
+Central West End,1904,6
+Skinker DeBaliviere,1908,6
+O'Fallon,1910,14
+Fountain Park,1892,8
+Benton Park,1928,5
+Forest Park South East,1915,14
+Forest Park South East,1891,8
+Vandeventer,1894,26
+Baden,1939,11
+Penrose,1929,2
+Mount Pleasant,1888,2
+The Ville,1885,11
+Hamilton Heights,1909,10
+Wells Goodfellow,1909,4
+Greater Ville,1910,1
+Wells Goodfellow,1903,9
+The Ville,1929,3
+Greater Ville,1891,6
+Fountain Park,1906,10
+Penrose,1894,7
+O'Fallon,1912,5
+Wells Goodfellow,1903,2
+West End,1892,3
+Wells Goodfellow,1908,1
+Kingsway East,1922,7
+Wells Goodfellow,1911,8
+Walnut Park West,1931,5
+Walnut Park East,1908,2
+O'Fallon,1923,2
+Greater Ville,1910,2
+Walnut Park West,1930,4
+Hyde Park,1894,4
+West End,1895,1
+Walnut Park East,1917,3
+Baden,1939,1
+Greater Ville,1916,6
+Greater Ville,1908,7
+Greater Ville,1894,7
+Dutchtown,1910,7
+Academy,1898,11
+Benton Park West,1897,6
+Jeff Vanderlou,1905,6
+Fairground Neighborhood,1910,13
+Greater Ville,1895,22
+Academy,1904,4
+West End,1908,7
+Penrose,1941,5
+Penrose,1927,2
+Vandeventer,1892,4
+Walnut Park West,1925,9
+Baden,1934,5
+Penrose,1929,2
+Carondelet,1892,10
+Kingsway East,1908,4
+Botanical Heights,1921,10
+Kingsway East,1907,5
+Walnut Park East,1910,2
+Vandeventer,1893,4
+Mark Twain,1921,4
+Mount Pleasant,1900,17
+Mount Pleasant,1893,3
+Walnut Park West,1914,3
+North Pointe,1925,8
+Tiffany,1914,3
+Carondelet,1924,4
+Walnut Park East,1925,2
+Walnut Park East,1950,3
+Walnut Park East,1922,2
+Baden,1907,18
+Wells Goodfellow,1895,2
+Hamilton Heights,1904,1
+Hamilton Heights,1904,20
+Baden,1955,4
+Kingsway West,1926,6
+Wells Goodfellow,1906,12
+Kingsway East,1906,12
+Walnut Park East,1909,7
+Walnut Park East,1922,2
+Walnut Park East,1908,3
+Penrose,1893,7
+Walnut Park West,1925,3
+O'Fallon,1914,2
+Vandeventer,1893,13
+Baden,1928,3
+Baden,1925,9
+Benton Park,1880,4
+Wells Goodfellow,1929,17
+The Ville,1902,12
+O'Fallon,1906,12
+Greater Ville,1906,10
+The Ville,1927,19
+Vandeventer,1893,8
+Lewis Place,1903,9
+Lewis Place,1905,8
+Academy,1890,5
+Academy,1893,9
+Academy,1892,9
+Hamilton Heights,1905,17
+Hamilton Heights,1905,2
+Hamilton Heights,1903,5
+Hamilton Heights,1908,10
+West End,1904,8
+Academy,1901,12
+Jeff Vanderlou,1908,11
+Wells Goodfellow,1925,10
+Hamilton Heights,1909,6
+Wells Goodfellow,1929,15
+Walnut Park East,1950,29
+Forest Park South East,1897,4
+Fairground Neighborhood,1895,1
+Wells Goodfellow,1925,9
+O'Fallon,1910,20
+The Ville,1893,7
+Academy,1894,16
+West End,1895,10
+The Ville,1884,6
+St. Louis Place,1888,24
+St. Louis Place,1895,6
+O'Fallon,1908,19
+Fountain Park,1890,12
+Kingsway West,1924,4
+Greater Ville,1908,8
+Wells Goodfellow,1917,8
+Carondelet,1960,4
+Wells Goodfellow,1919,13
+Walnut Park East,1928,10
+Walnut Park East,1906,15
+Fairground Neighborhood,1928,12
+St. Louis Place,1887,6
+Jeff Vanderlou,1908,20
+Dutchtown,1924,5
+Fairground Neighborhood,1889,6
+College Hill,1910,23
+College Hill,1913,8
+College Hill,1913,8
+Fairground Neighborhood,1900,11
+O'Fallon,1915,8
+O'Fallon,1913,2
+O'Fallon,1916,9
+O'Fallon,1916,9
+Jeff Vanderlou,1910,6
+Vandeventer,1884,5
+Hamilton Heights,1910,2
+Hamilton Heights,1908,1
+Forest Park South East,1909,14
+Tower Grove South,1893,2
+Penrose,1908,2
+Penrose,1925,13
+Penrose,1925,13
+Penrose,1883,2
+Kingsway East,1904,8
+Greater Ville,1913,5
+Greater Ville,1892,14
+Kingsway East,1910,19
+Wells Goodfellow,1926,5
+Lewis Place,1916,5
+Wells Goodfellow,1910,7
+Forest Park South East,1888,14
+Walnut Park East,1929,18
+Kingsway West,1924,9
+Baden,1915,11
+Walnut Park West,1949,17
+Mark Twain,1926,13
+Mark Twain I-70 Industrial,1930,14
+St. Louis Place,1972,6
+Mount Pleasant,1900,14
+Greater Ville,1883,6
+Hamilton Heights,1999,6
+Walnut Park East,1901,13
+Mark Twain,1973,2
+Fairground Neighborhood,1899,19
+Fairground Neighborhood,1899,19
+Fairground Neighborhood,1899,5
+Walnut Park East,1915,2
+Walnut Park East,1929,3
+Kingsway West,1925,7
+Penrose,1906,12
+Franz Park,1928,4
+Wells Goodfellow,1895,9
+Baden,1897,9
+Walnut Park East,1912,5
+North Pointe,1928,2
+Walnut Park West,1926,11
+Kingsway East,1925,16
+College Hill,1922,11
+The Ville,1899,5
+Fountain Park,1901,4
+Hamilton Heights,1908,10
+Kingsway East,1891,7
+Greater Ville,1909,9
+Kingsway West,1906,9
+Penrose,1926,13
+Greater Ville,1904,14
+Walnut Park East,1909,3
+Mount Pleasant,1911,5
+O'Fallon,1908,2
+Fountain Park,1895,7
+Lewis Place,1891,6
+O'Fallon,1892,14
+Greater Ville,1925,8
+Greater Ville,1906,4
+Hyde Park,1913,14
+Mount Pleasant,1927,6
+Fox Park,1913,6
+Fountain Park,1904,6
+Lafayette Square,1896,9
+Central West End,1892,11
+Walnut Park East,1910,1
+West End,1908,5
+O'Fallon,1910,22
+O'Fallon,1910,22
+O'Fallon,1891,17
+O'Fallon,1891,17
+Patch,1892,11
+The Ville,1900,28
+Greater Ville,1897,15
+Vandeventer,1890,15
+Academy,1896,5
+Visitation Park,1901,13
+Lewis Place,1891,5
+Academy,1897,14
+Vandeventer,1893,22
+Visitation Park,1902,17
+Academy,1894,8
+Academy,1901,11
+Central West End,1891,25
+Covenant Blu-Grand Center,1892,13
+Carondelet,1908,13
+Fairground Neighborhood,1909,10
+Vandeventer,1905,11
+Walnut Park East,1900,24
+Walnut Park East,1900,24
+Kingsway West,1910,12
+Walnut Park West,1922,14
+O'Fallon,1911,14
+Forest Park South East,1883,10
+Forest Park South East,1903,14
+Benton Park,1890,1
+Greater Ville,1893,6
+Patch,1892,5
+Fairground Neighborhood,1900,15
+Penrose,1905,2
+Wells Goodfellow,1923,4
+The Ville,1884,5
+Wells Goodfellow,1905,2
+Fox Park,1884,11
+Mount Pleasant,1892,3
+Hamilton Heights,1903,18
+Academy,1905,7
+Academy,1900,12
+O'Fallon,1904,6
+O'Fallon,1895,11
+The Ville,1883,6
+Vandeventer,1928,5
+Walnut Park East,1908,20
+Fountain Park,1900,5
+Greater Ville,1908,8
+Mark Twain,1921,4
+Penrose,1914,7
+Kingsway East,1913,7
+Baden,1914,9
+Walnut Park West,1923,9
+Academy,1901,8
+Dutchtown,1902,2
+Greater Ville,1859,0
+West End,1923,5
+West End,1923,5
+Greater Ville,1909,0
+Walnut Park East,1948,0
+Dutchtown,1895,14
+Jeff Vanderlou,1889,0
+Dutchtown,1890,0
+O'Fallon,1908,0
+Greater Ville,1907,0
+Greater Ville,1890,0
+Greater Ville,1893,0
+West End,1906,0
+Greater Ville,1914,0
+Greater Ville,1906,0
+Kingsway East,1908,0
+Kingsway East,1917,0
+Kingsway West,1920,1
+Wells Goodfellow,1907,0
+Walnut Park East,1922,0
+Walnut Park East,1912,0
+Walnut Park East,1916,0
+Walnut Park West,1955,2
+Fairground Neighborhood,1896,0
+Hamilton Heights,1906,0
+Baden,1907,5
+Greater Ville,1885,0
+Walnut Park East,1907,0
+Walnut Park West,1925,0
+Baden,1910,0
+Mark Twain,1922,0
+Wells Goodfellow,1914,0
+O'Fallon,1887,0
+O'Fallon,1887,0
+Hamilton Heights,1905,0
+Walnut Park East,1947,2
+Hyde Park,0,13
+Greater Ville,1915,0
+Jeff Vanderlou,1910,1
+Walnut Park East,1897,0
+Walnut Park East,1923,0
+Wells Goodfellow,1905,4
+Hyde Park,1880,0
+O'Fallon,1895,0
+Fairground Neighborhood,1886,0
+Hamilton Heights,1901,0
+Walnut Park West,1913,18
+Hyde Park,1893,1
+Vandeventer,1884,0
+Fairground Neighborhood,1895,0
+Jeff Vanderlou,1904,0
+Greater Ville,1911,4
+Hamilton Heights,1902,0
+Walnut Park East,1912,0
+Jeff Vanderlou,1889,1
+Greater Ville,1893,4
+College Hill,1933,1
+Fairground Neighborhood,1884,5
+Penrose,0,0
+Fairground Neighborhood,1897,0
+Wells Goodfellow,1987,0
+Gravois Park,1897,0
+Dutchtown,1883,6
+Greater Ville,1907,25
+The Ville,1906,0
+Fountain Park,1900,0
+Lewis Place,1893,0
+Academy,1893,10
+Hamilton Heights,1901,5
+Greater Ville,1911,0
+Carondelet,1890,0
+Carondelet,1900,0
+Wells Goodfellow,1926,3
+Jeff Vanderlou,1904,0
+Academy,1897,2
+Academy,1896,0
+Marine Villa,1900,0
+O'Fallon,1890,0
+Walnut Park East,1957,5
+Mark Twain,1911,0
+Walnut Park West,1950,0
+Greater Ville,1917,0
+Hyde Park,1890,9
+Dutchtown,1904,7
+Gravois Park,1884,15
+Marine Villa,1884,7
+Hyde Park,1900,0
+College Hill,1900,0
+Fairground Neighborhood,1902,0
+Fairground Neighborhood,1902,0
+O'Fallon,1912,0
+O'Fallon,1908,5
+Greater Ville,1880,0
+Jeff Vanderlou,1909,0
+Jeff Vanderlou,1908,0
+The Ville,1892,0
+Vandeventer,1899,0
+Vandeventer,1899,0
+Fountain Park,1905,1
+Hamilton Heights,1904,0
+Hamilton Heights,1891,0
+West End,1906,0
+Penrose,1900,1
+Greater Ville,1890,0
+Greater Ville,1914,0
+Greater Ville,1909,1
+Greater Ville,1917,0
+Greater Ville,1912,0
+Kingsway East,1904,0
+Kingsway East,1904,0
+Greater Ville,1920,0
+Kingsway East,1908,0
+Kingsway East,1925,0
+Kingsway East,1914,0
+Kingsway East,1908,4
+Kingsway East,1908,4
+Vandeventer,1893,0
+Jeff Vanderlou,1908,0
+Lewis Place,1897,0
+Mark Twain,1934,0
+Walnut Park East,1896,6
+Greater Ville,1908,0
+Greater Ville,1910,0
+Greater Ville,1906,0
+Walnut Park East,1909,4
+Wells Goodfellow,1910,0
+Wells Goodfellow,1911,0
+Mark Twain,1921,0
+Walnut Park East,1922,0
+Mark Twain,1924,0
+Penrose,1925,0
+Fairground Neighborhood,1906,1
+Fairground Neighborhood,1886,0
+Penrose,1906,1
+Walnut Park East,1924,0
+Walnut Park West,1924,1
+Walnut Park East,1911,0
+Walnut Park East,1954,0
+Baden,1915,2
+Mark Twain,1909,0
+Mark Twain,1909,0
+Baden,1904,0
+Fairground Neighborhood,1887,0
+Jeff Vanderlou,1888,0
+College Hill,1875,5
+Dutchtown,1924,0
+O'Fallon,1911,0
+Greater Ville,1909,0
+Greater Ville,1890,0
+Kingsway East,1908,0
+Kingsway West,1914,1
+Jeff Vanderlou,1907,0
+Walnut Park East,1917,0
+Walnut Park West,1925,0
+Walnut Park East,1923,0
+Fairground Neighborhood,1895,0
+Greater Ville,1885,0
+Walnut Park East,1897,0
+Walnut Park East,1947,0
+Baden,1956,0
+Marine Villa,1890,0
+Fountain Park,1896,1
+Hamilton Heights,1895,0
+Kingsway East,1904,4
+Academy,1894,4
+Penrose,1925,0
+Walnut Park East,1923,0
+Walnut Park East,1929,15
+Hyde Park,1896,0
+Hyde Park,1924,11
+Walnut Park East,1928,1
+Wells Goodfellow,1987,0
+Wells Goodfellow,1987,0
+Greater Ville,1909,2
+Greater Ville,1906,0
+The Ville,1886,13
+Vandeventer,1890,13
+Covenant Blu-Grand Center,1896,2
+Academy,1905,3
+Hamilton Heights,1907,14
+Hamilton Heights,1906,19
+Hamilton Heights,1905,0
+West End,1907,7
+Kingsway East,1911,0
+Greater Ville,1898,4
+Wells Goodfellow,1908,0
+Lewis Place,1887,0
+Wells Goodfellow,1906,7
+Wells Goodfellow,1904,0
+Hamilton Heights,1906,5
+College Hill,1886,2
+The Ville,1902,9
+Wells Goodfellow,1905,1
+Jeff Vanderlou,1908,0
+Mount Pleasant,1917,0
+College Hill,1883,0
+Hyde Park,1889,9
+Visitation Park,1895,5
+Vandeventer,1891,0
+Academy,1902,0
+Academy,1895,13
+Academy,1895,13
+Hamilton Heights,1900,1
+Hamilton Heights,1910,0
+Lewis Place,1893,0
+Hamilton Heights,1900,0
+Hamilton Heights,1900,0
+Lewis Place,1913,0
+Gravois Park,1912,0
+O'Fallon,1897,4
+O'Fallon,1897,4
+Hamilton Heights,1909,0
+Gravois Park,1885,0
+Hyde Park,1888,9
+Hyde Park,1914,0
+Hyde Park,1911,0
+O'Fallon,1897,0
+O'Fallon,1900,8
+O'Fallon,1926,1
+O'Fallon,1907,20
+Greater Ville,1906,4
+Jeff Vanderlou,1905,0
+Jeff Vanderlou,1911,4
+Greater Ville,1899,0
+Vandeventer,1896,0
+Fountain Park,1900,0
+Kingsway East,1908,0
+Academy,1893,14
+Academy,1893,14
+Hamilton Heights,1909,0
+Hamilton Heights,1906,0
+West End,1920,0
+Hamilton Heights,1904,4
+Penrose,1927,0
+Penrose,1900,8
+Greater Ville,1908,0
+Greater Ville,1914,0
+Kingsway East,1915,0
+Kingsway East,1905,0
+Kingsway East,1891,0
+Kingsway East,1904,4
+Kingsway East,1904,0
+Mark Twain,1921,0
+Mark Twain,1916,0
+Walnut Park East,1926,8
+Walnut Park East,1922,0
+Mark Twain,1919,0
+Walnut Park East,1927,0
+Jeff Vanderlou,1972,0
+Jeff Vanderlou,1884,3
+Wells Goodfellow,1906,1
+Mark Twain,1903,0
+Mark Twain,1910,0
+Walnut Park East,1922,3
+Walnut Park East,1929,1
+Walnut Park East,1905,0
+Walnut Park East,1923,9
+Walnut Park East,1913,1
+Walnut Park West,1927,0
+Walnut Park East,1930,0
+Walnut Park East,1960,0
+Walnut Park East,1910,0
+Walnut Park East,1906,0
+Walnut Park East,1908,0
+Walnut Park East,1922,0
+Walnut Park East,1923,0
+Walnut Park East,1919,1
+Baden,1929,0
+Baden,1902,0
+Baden,1923,7
+Baden,1949,0
+Dutchtown,1895,0
+Jeff Vanderlou,1887,0
+Fairground Neighborhood,1910,2
+College Hill,1900,8
+O'Fallon,1910,0
+The Ville,1906,0
+Penrose,1924,0
+Greater Ville,1916,0
+Greater Ville,1923,7
+Kingsway East,1908,1
+Kingsway East,1906,3
+Hamilton Heights,1906,0
+Mark Twain,1924,6
+Walnut Park East,1927,0
+Walnut Park East,1923,5
+Hyde Park,1885,8
+Hyde Park,1870,11
+Greater Ville,1896,3
+Hamilton Heights,1906,1
+Kingsway West,1900,0
+Wells Goodfellow,1897,1
+Walnut Park East,1920,0
+Fairground Neighborhood,1909,5
+Walnut Park East,1924,0
+Greater Ville,1902,0
+Jeff Vanderlou,1904,4
+Visitation Park,1907,0
+Fairground Neighborhood,1908,19
+College Hill,1860,5
+The Ville,1910,4
+The Ville,1911,1
+Vandeventer,1899,9
+Fountain Park,1903,12
+Hamilton Heights,1911,0
+West End,1908,7
+Wells Goodfellow,1896,5
+Academy,1898,10
+Academy,1898,15
+Greater Ville,1908,0
+Wells Goodfellow,1908,4
+Wells Goodfellow,1906,2
+Mark Twain,1910,2
+Hamilton Heights,1900,8
+Hamilton Heights,1901,8
+West End,1909,12
+Jeff Vanderlou,1904,0
+Baden,1906,0
+St. Louis Place,1882,0
+Fairground Neighborhood,1908,15
+Greater Ville,1911,2
+Hamilton Heights,1905,0
+Hamilton Heights,1905,0
+Hamilton Heights,1908,0
+Hamilton Heights,1904,1
+Greater Ville,1919,0
+Greater Ville,1906,23
+Wells Goodfellow,1912,7
+Walnut Park East,1922,0
+Carondelet,1893,2
+Mark Twain,1910,0
+Walnut Park East,1922,0
+Walnut Park East,1919,2
+Walnut Park East,1915,4
+Baden,1904,0
+Penrose,1924,0
+Marine Villa,1884,4
+Hamilton Heights,1904,1
+Wells Goodfellow,1926,0
+Walnut Park West,1939,0
+College Hill,1902,5
+Baden,1925,0
+Wells Goodfellow,1906,1
+Walnut Park East,1911,0
+Lewis Place,1894,6
+Walnut Park East,1925,12
+Fountain Park,1885,11
+Lewis Place,1889,6
+Mark Twain,1913,2
+The Ville,1883,4
+Greater Ville,1908,4
+Greater Ville,1901,4
+Greater Ville,1886,1
+Greater Ville,1897,3
+Penrose,1925,1
+Wells Goodfellow,1904,1
+Wells Goodfellow,1909,2
+Kingsway East,1910,3
+Walnut Park West,1929,3
+Walnut Park East,1909,8
+The Ville,1892,4
+Mark Twain,1908,5
+Baden,1912,13
+Walnut Park West,1927,5
+The Ville,1890,5
+O'Fallon,1890,17
+Walnut Park East,1911,3
+Walnut Park West,1912,1
+Greater Ville,1905,16
+Lewis Place,1906,9
+Lewis Place,1887,6
+Fairground Neighborhood,1891,6
+Walnut Park East,1931,2
+Walnut Park East,1911,6
+Walnut Park East,1924,8
+Greater Ville,1909,7
+Covenant Blu-Grand Center,1896,13
+Academy,1905,8
+Academy,1905,9
+Greater Ville,1909,2
+Penrose,1906,2
+Lewis Place,1902,6
+Lewis Place,1906,4
+Walnut Park West,1936,4
+Baden,1904,11
+Baden,1904,11
+The Ville,1900,13
+The Ville,1890,9
+Greater Ville,1906,16
+Hyde Park,1891,6
+Academy,1892,13
+Wells Goodfellow,1911,8
+Jeff Vanderlou,1904,6
+College Hill,1885,18
+Fairground Neighborhood,1884,6
+Fairground Neighborhood,1926,23
+Academy,1900,11
+Greater Ville,1909,15
+Hyde Park,1884,26
+Wells Goodfellow,1926,8
+Greater Ville,1894,20
+Covenant Blu-Grand Center,1895,6
+Mark Twain,1970,7
+Mark Twain,1970,7
+College Hill,1898,13
+Fairground Neighborhood,1897,17
+Fairground Neighborhood,1906,7
+Kingsway West,1910,7
+Penrose,1914,13
+Fairground Neighborhood,1900,12
+Walnut Park West,1927,11
+Baden,1923,17
+Walnut Park East,1928,8
+Penrose,1904,22
+Kingsway East,1906,23
+Jeff Vanderlou,1889,10
+West End,1901,20
+Greater Ville,1880,13
+Greater Ville,1880,13
+North Riverfront,1902,12
+Hyde Park,1894,14
+O'Fallon,1907,14
+Hyde Park,1898,11
+College Hill,1883,6
+Mount Pleasant,1898,5
+College Hill,1911,24
+Fairground Neighborhood,1899,16
+Jeff Vanderlou,1910,6
+Jeff Vanderlou,1898,7
+Greater Ville,1905,7
+Greater Ville,1900,8
+The Ville,1891,5
+The Ville,1889,24
+Greater Ville,1904,3
+The Ville,1908,3
+The Ville,1907,7
+The Ville,1911,17
+The Ville,1908,7
+The Ville,1908,7
+The Ville,1895,13
+The Ville,1905,12
+The Ville,1891,5
+The Ville,1895,18
+The Ville,1912,12
+The Ville,1884,5
+Greater Ville,1905,7
+Greater Ville,1892,12
+Greater Ville,1893,8
+Vandeventer,1895,10
+Fountain Park,1893,5
+Lewis Place,1899,8
+Lewis Place,1906,5
+Fountain Park,1911,5
+Academy,1892,8
+Hamilton Heights,1904,9
+Hamilton Heights,1902,7
+Hamilton Heights,1905,3
+Hamilton Heights,1901,16
+Hamilton Heights,1911,12
+Hamilton Heights,1911,12
+Hamilton Heights,1911,10
+Hamilton Heights,1911,9
+Hamilton Heights,1904,8
+Hamilton Heights,1904,8
+West End,1899,11
+West End,1898,28
+Hamilton Heights,1911,11
+Greater Ville,1924,6
+Greater Ville,1909,12
+Wells Goodfellow,1903,1
+Wells Goodfellow,1911,18
+Academy,1901,5
+Lewis Place,1906,6
+Academy,1905,2
+Academy,1905,17
+Academy,1901,8
+The Ville,1890,10
+The Ville,1884,9
+Greater Ville,1888,4
+O'Fallon,1972,17
+Wells Goodfellow,1911,19
+Wells Goodfellow,1901,12
+Wells Goodfellow,1908,12
+Wells Goodfellow,1908,4
+College Hill,1884,21
+Hyde Park,1895,6
+The Ville,1908,5
+Lewis Place,1907,6
+Greater Ville,1927,6
+Wells Goodfellow,1907,7
+Wells Goodfellow,1925,9
+Wells Goodfellow,1905,19
+Jeff Vanderlou,1884,21
+West End,1893,15
+Academy,1893,3
+West End,1898,18
+Hamilton Heights,1905,7
+West End,1895,15
+Greater Ville,1930,18
+Academy,1897,8
+West End,1896,12
+Greater Ville,1885,14
+O'Fallon,1902,9
+Walnut Park East,1930,5
+Baden,1909,1
+O'Fallon,1884,11
+O'Fallon,1884,11
+Walnut Park East,1937,4
+Mark Twain,1910,3
+Greater Ville,1900,7
+Mark Twain,1924,5
+Jeff Vanderlou,1908,10
+Hyde Park,1890,29
+Hyde Park,1873,12
+Hyde Park,1912,11
+Hyde Park,1905,1
+Hyde Park,1913,12
+Hyde Park,1909,6
+Hyde Park,1903,22
+Hyde Park,1899,9
+Hyde Park,1925,6
+Hyde Park,1893,6
+College Hill,1892,9
+College Hill,1900,20
+Fairground Neighborhood,1908,6
+Fairground Neighborhood,1909,6
+Fairground Neighborhood,1893,1
+Fairground Neighborhood,1905,5
+Fairground Neighborhood,1912,17
+Fairground Neighborhood,1911,1
+O'Fallon,1910,2
+O'Fallon,1913,2
+Greater Ville,1898,2
+Greater Ville,1911,5
+Jeff Vanderlou,1906,4
+Jeff Vanderlou,1906,10
+Greater Ville,1897,19
+Greater Ville,1897,1
+Greater Ville,1895,6
+Greater Ville,1898,8
+Greater Ville,1907,12
+Greater Ville,1912,7
+Greater Ville,1912,5
+Greater Ville,1947,8
+The Ville,1887,4
+The Ville,1904,4
+The Ville,1913,1
+The Ville,1891,3
+The Ville,1893,6
+Greater Ville,1915,3
+Greater Ville,1911,5
+Greater Ville,1913,8
+Greater Ville,1908,5
+Fountain Park,1928,6
+Lewis Place,1893,10
+Kingsway East,1890,7
+Hamilton Heights,1908,2
+Hamilton Heights,1902,7
+Hamilton Heights,1909,2
+Hamilton Heights,1921,2
+West End,1908,2
+Hamilton Heights,1908,2
+Hamilton Heights,1906,6
+Baden,1911,2
+Baden,1902,9
+Penrose,1908,2
+Penrose,1925,2
+Penrose,1906,2
+Penrose,1917,2
+Penrose,1929,2
+O'Fallon,1909,2
+Greater Ville,1923,14
+Greater Ville,1905,8
+Greater Ville,1911,3
+Greater Ville,1911,1
+Greater Ville,1916,4
+Greater Ville,1898,3
+Greater Ville,1897,3
+Greater Ville,1909,24
+Kingsway East,1908,15
+Kingsway East,1908,15
+Kingsway East,1907,6
+Kingsway East,1908,2
+Kingsway East,1903,7
+Kingsway East,1924,6
+Kingsway West,1910,5
+Wells Goodfellow,1895,9
+Wells Goodfellow,1910,2
+Wells Goodfellow,1904,3
+Wells Goodfellow,1916,7
+Wells Goodfellow,1930,11
+Wells Goodfellow,1908,2
+Wells Goodfellow,1926,4
+Academy,1902,7
+Vandeventer,1894,9
+Kingsway East,1907,3
+Mark Twain,1923,1
+Walnut Park East,1926,8
+Walnut Park East,1919,3
+Mark Twain,1893,10
+Greater Ville,1922,7
+Greater Ville,1922,7
+Greater Ville,1910,3
+Wells Goodfellow,1910,2
+Wells Goodfellow,1911,8
+Wells Goodfellow,1903,4
+Baden,1912,1
+Baden,1924,8
+Kingsway West,1908,9
+Walnut Park East,1929,6
+Walnut Park East,1920,12
+Walnut Park East,1916,3
+Walnut Park East,1953,3
+Walnut Park West,1927,5
+Walnut Park West,1953,9
+Walnut Park East,1921,7
+Walnut Park East,1921,7
+Walnut Park East,1925,8
+Wells Goodfellow,1925,2
+The Ville,1885,5
+Baden,1900,9
+Baden,1924,5
+Penrose,1906,7
+Penrose,1905,6
+Penrose,1900,7
+Greater Ville,1891,7
+Wells Goodfellow,1910,6
+Wells Goodfellow,1923,8
+O'Fallon,1891,2
+Mark Twain,1909,5
+Mark Twain,1909,2
+Mark Twain,1910,20
+Walnut Park East,1913,3
+Walnut Park East,1922,14
+Walnut Park East,1901,2
+Wells Goodfellow,1923,2
+Wells Goodfellow,1905,6
+Baden,1903,13
+Walnut Park East,1909,2
+Walnut Park East,1921,2
+Wells Goodfellow,1908,12
+Baden,1907,13
+Walnut Park East,1909,7
+Walnut Park East,1908,1
+Walnut Park East,1924,2
+Walnut Park West,1923,14
+Walnut Park West,1954,2
+Walnut Park East,1912,16
+Baden,1949,7
+Baden,1907,18
+Baden,1929,6
+Baden,1929,6
+Walnut Park West,1925,5
+Mark Twain,1911,8
+Walnut Park East,1912,2
+Walnut Park East,1916,3
+Walnut Park East,1912,3
+Penrose,1926,2
+Penrose,1926,2
+Mark Twain,1926,3
+Mark Twain,1910,12
+Mark Twain,1924,2
+Walnut Park East,1923,3
+Walnut Park East,1909,3
+Walnut Park West,1925,1
+Walnut Park East,1911,7
+College Hill,1873,19
+O'Fallon,1908,2
+O'Fallon,1909,5
+Greater Ville,1911,4
+Greater Ville,1908,7
+West End,1902,17
+Greater Ville,1911,3
+Greater Ville,1909,6
+Greater Ville,1909,6
+Greater Ville,1922,1
+Greater Ville,1911,3
+Greater Ville,1892,19
+Greater Ville,1892,19
+Greater Ville,1909,5
+Mark Twain,1940,5
+Walnut Park East,1923,2
+Mark Twain,1912,3
+Walnut Park West,1908,3
+Walnut Park East,1925,8
+Walnut Park East,1927,3
+Mark Twain,1925,2
+Penrose,1905,2
+Wells Goodfellow,1898,9
+Walnut Park East,1907,15
+Mark Twain,1924,1
+Baden,1924,4
+Baden,1903,8
+Hyde Park,1880,15
+College Hill,1904,12
+Greater Ville,1897,10
+Academy,1892,5
+Academy,1894,4
+Hamilton Heights,1894,3
+Hamilton Heights,1905,2
+Penrose,1932,1
+Greater Ville,1911,6
+Greater Ville,1910,2
+Kingsway East,1909,4
+Kingsway East,1897,18
+Kingsway East,1895,13
+Academy,1892,5
+Academy,1897,9
+Academy,1897,7
+Jeff Vanderlou,1909,4
+Jeff Vanderlou,1905,6
+Greater Ville,1884,6
+Penrose,1916,1
+Walnut Park West,1908,22
+Walnut Park West,1908,13
+Walnut Park East,1907,10
+Greater Ville,1890,8
+Kingsway East,1894,3
+Lewis Place,1891,5
+Walnut Park East,1924,3
+Walnut Park West,1951,19
+Hyde Park,1890,11
+The Ville,1900,7
+Greater Ville,1887,11
+Hamilton Heights,1917,3
+West End,1906,2
+Wells Goodfellow,1920,8
+Wells Goodfellow,1923,16
+Wells Goodfellow,1951,14
+College Hill,1883,6
+The Ville,1897,20
+Walnut Park East,1916,3
+College Hill,1895,21
+College Hill,1895,21
+Wells Goodfellow,1910,21
+Wells Goodfellow,1900,16
+The Ville,1892,17
+Greater Ville,1885,10
+Greater Ville,1903,7
+Greater Ville,1895,25
+Greater Ville,1925,7
+Jeff Vanderlou,1880,7
+Hyde Park,1890,24
+Hyde Park,1907,23
+College Hill,1911,13
+College Hill,1911,13
+College Hill,1883,25
+College Hill,1911,20
+Fairground Neighborhood,1910,7
+O'Fallon,1913,13
+Greater Ville,1892,10
+Greater Ville,1928,10
+Jeff Vanderlou,1917,7
+Jeff Vanderlou,1893,8
+Greater Ville,1910,8
+Greater Ville,1895,12
+Greater Ville,1895,5
+Greater Ville,1910,7
+Greater Ville,1907,11
+The Ville,1908,3
+Greater Ville,1907,16
+Greater Ville,1906,9
+Greater Ville,1906,7
+The Ville,1897,16
+The Ville,1909,8
+The Ville,1905,16
+The Ville,1904,11
+The Ville,1921,2
+The Ville,1896,20
+The Ville,1888,18
+The Ville,1883,10
+The Ville,1884,7
+The Ville,1891,11
+The Ville,1898,10
+The Ville,1898,10
+Greater Ville,1954,9
+Greater Ville,1883,10
+Greater Ville,1903,20
+Greater Ville,1908,18
+Greater Ville,1905,11
+Greater Ville,1890,7
+Greater Ville,1900,11
+Greater Ville,1892,20
+Vandeventer,1883,9
+Vandeventer,1883,9
+Vandeventer,1890,16
+Vandeventer,1899,11
+Vandeventer,1891,7
+Covenant Blu-Grand Center,1888,5
+Vandeventer,1900,11
+Vandeventer,1888,9
+Fountain Park,1899,5
+Fountain Park,1892,5
+Fountain Park,1892,14
+Lewis Place,1891,12
+Lewis Place,1891,7
+Lewis Place,1899,3
+Lewis Place,1903,9
+Lewis Place,1903,3
+Lewis Place,1907,24
+Lewis Place,1907,14
+Lewis Place,1904,17
+Academy,1903,11
+Academy,1895,10
+Academy,1899,9
+Academy,1903,2
+Academy,1904,18
+Academy,1889,1
+Academy,1891,9
+Hamilton Heights,1906,8
+Hamilton Heights,1906,9
+Hamilton Heights,1906,2
+Hamilton Heights,1909,3
+Hamilton Heights,1904,6
+Hamilton Heights,1907,13
+Hamilton Heights,1905,21
+Hamilton Heights,1895,3
+Hamilton Heights,1908,7
+Hamilton Heights,1908,2
+Hamilton Heights,1898,9
+Hamilton Heights,1894,3
+Hamilton Heights,1903,3
+Academy,1896,21
+West End,1908,12
+Hamilton Heights,1903,24
+Hamilton Heights,1907,8
+Hamilton Heights,1907,15
+Hamilton Heights,1900,3
+Hamilton Heights,1908,3
+Hamilton Heights,1925,14
+Hamilton Heights,1923,10
+Hamilton Heights,1923,17
+Hamilton Heights,1911,19
+Hamilton Heights,1903,17
+Hamilton Heights,1904,13
+Hamilton Heights,1892,20
+Hamilton Heights,1906,9
+Hamilton Heights,1906,6
+Hamilton Heights,1906,9
+Hamilton Heights,1906,8
+Hamilton Heights,1906,15
+Hamilton Heights,1907,7
+Hamilton Heights,1907,3
+West End,1905,12
+West End,1905,12
+West End,1908,11
+West End,1909,7
+Hamilton Heights,1909,1
+Hamilton Heights,1908,3
+Hamilton Heights,1910,9
+Hamilton Heights,1910,14
+Hamilton Heights,1927,15
+Greater Ville,1917,8
+Greater Ville,1916,6
+Greater Ville,1912,7
+Greater Ville,1929,8
+Wells Goodfellow,1904,8
+Wells Goodfellow,1908,9
+Wells Goodfellow,1908,9
+Wells Goodfellow,1908,8
+Wells Goodfellow,1908,14
+Wells Goodfellow,1908,5
+Wells Goodfellow,1925,15
+Wells Goodfellow,1905,2
+Wells Goodfellow,1905,4
+Wells Goodfellow,1926,19
+Wells Goodfellow,1926,11
+Wells Goodfellow,1905,11
+Lewis Place,1894,1
+Lewis Place,1893,8
+Wells Goodfellow,1895,13
+Wells Goodfellow,1902,13
+Wells Goodfellow,1926,10
+Wells Goodfellow,1907,11
+Wells Goodfellow,1899,23
+Wells Goodfellow,1925,15
+Wells Goodfellow,1910,5
+Wells Goodfellow,1915,17
+Wells Goodfellow,1901,12
+Wells Goodfellow,1924,17
+Wells Goodfellow,1906,21
+Wells Goodfellow,1908,12
+Wells Goodfellow,1909,11
+Wells Goodfellow,1899,18
+Jeff Vanderlou,1899,10
+Greater Ville,1908,7
+Greater Ville,1908,8
+Greater Ville,1913,12
+Hamilton Heights,1907,8
+Hamilton Heights,1907,14
+Hamilton Heights,1910,5
+Hamilton Heights,1908,6
+Wells Goodfellow,1911,5
+Wells Goodfellow,1920,13
+Wells Goodfellow,1926,12
+Fairground Neighborhood,1901,13
+Greater Ville,1947,24
+The Ville,1891,25
+The Ville,1893,15
+Greater Ville,1904,14
+Greater Ville,1894,12
+Wells Goodfellow,1892,10
+Wells Goodfellow,1893,12
+Wells Goodfellow,1906,8
+Wells Goodfellow,1920,6
+Wells Goodfellow,1907,12
+Wells Goodfellow,1907,2
+Wells Goodfellow,1905,9
+Wells Goodfellow,1904,10
+Wells Goodfellow,1903,7
+Wells Goodfellow,1904,11
+Walnut Park West,1910,7
+Walnut Park East,1909,3
+Hyde Park,1889,20
+Jeff Vanderlou,1900,7
+The Ville,1893,5
+Greater Ville,1907,7
+The Ville,1908,5
+The Ville,1896,15
+Vandeventer,1890,14
+Vandeventer,1890,13
+Academy,1905,9
+Academy,1905,9
+Academy,1899,10
+Wells Goodfellow,1910,10
+Wells Goodfellow,1907,6
+Greater Ville,1909,12
+Wells Goodfellow,1924,2
+Academy,1901,14
+Patch,1890,14
+Hyde Park,1895,24
+Hyde Park,1893,28
+College Hill,1897,20
+Greater Ville,1895,16
+The Ville,1926,24
+Greater Ville,1895,12
+Greater Ville,1890,26
+Fountain Park,1896,23
+Lewis Place,1897,6
+Lewis Place,1889,13
+Lewis Place,1892,7
+Lewis Place,1895,18
+Academy,1892,9
+Academy,1892,9
+Academy,1894,10
+Academy,1894,13
+Academy,1891,8
+Hamilton Heights,1897,7
+Hamilton Heights,1895,6
+West End,1908,8
+West End,1908,8
+Hamilton Heights,1898,5
+Hamilton Heights,1901,9
+Hamilton Heights,1904,8
+West End,1902,17
+West End,1909,13
+West End,1899,26
+West End,1906,5
+Hamilton Heights,1902,7
+West End,1891,8
+Lewis Place,1890,18
+Lewis Place,1898,14
+Academy,1892,6
+Academy,1898,16
+West End,1896,27
+Wells Goodfellow,1895,19
+Academy,1895,16
+Greater Ville,1902,8
+The Ville,1883,13
+Wells Goodfellow,1904,12
+Wells Goodfellow,1892,14
+O'Fallon,1900,12
+Greater Ville,1895,7
+Walnut Park East,1950,8
+Walnut Park East,1919,2
+Baden,1913,6
+Walnut Park West,1950,9
+O'Fallon,1883,12
+Fairground Neighborhood,1911,9
+Fairground Neighborhood,1891,6
+Fairground Neighborhood,1895,17
+Fairground Neighborhood,1900,9
+Benton Park West,1892,8
+Jeff Vanderlou,1905,17
+Jeff Vanderlou,1898,17
+Jeff Vanderlou,1908,22
+Hyde Park,1892,10
+Hyde Park,1910,23
+Hyde Park,1914,17
+Hyde Park,1946,10
+Hyde Park,1946,10
+Hyde Park,1906,26
+Fairground Neighborhood,1923,6
+Fairground Neighborhood,1922,8
+College Hill,1898,17
+College Hill,1886,6
+College Hill,1904,8
+Hyde Park,1911,12
+Hyde Park,1913,12
+Hyde Park,1925,6
+College Hill,1926,6
+College Hill,1907,1
+College Hill,1890,6
+Academy,1905,7
+Fairground Neighborhood,1926,9
+College Hill,1908,17
+Fairground Neighborhood,1905,4
+Fairground Neighborhood,1905,6
+College Hill,1900,10
+College Hill,1900,10
+College Hill,1904,16
+College Hill,1903,11
+Fairground Neighborhood,1909,17
+Fairground Neighborhood,1902,6
+Fairground Neighborhood,1912,1
+O'Fallon,1897,26
+O'Fallon,1897,26
+O'Fallon,1912,2
+O'Fallon,1911,3
+Penrose,1927,13
+Penrose,1907,15
+O'Fallon,1905,7
+O'Fallon,1908,5
+O'Fallon,1911,9
+O'Fallon,1908,9
+O'Fallon,1908,5
+O'Fallon,1906,1
+Greater Ville,1898,3
+Greater Ville,1924,8
+Greater Ville,1911,12
+Greater Ville,1915,8
+Jeff Vanderlou,1905,6
+Jeff Vanderlou,1905,18
+Jeff Vanderlou,1905,10
+Jeff Vanderlou,1907,14
+Jeff Vanderlou,1910,6
+Greater Ville,1908,7
+Greater Ville,1905,5
+Greater Ville,1895,14
+Greater Ville,1895,9
+Greater Ville,1900,8
+Greater Ville,1911,7
+Greater Ville,1905,8
+Greater Ville,1898,7
+Greater Ville,1911,8
+Greater Ville,1906,7
+Greater Ville,1907,8
+Greater Ville,1896,13
+Greater Ville,1906,7
+The Ville,1913,1
+The Ville,1890,1
+The Ville,1890,1
+The Ville,1896,13
+The Ville,1896,13
+Greater Ville,1921,5
+Greater Ville,1907,26
+Greater Ville,1885,15
+Greater Ville,1888,7
+Greater Ville,1909,6
+Fountain Park,1892,7
+Fountain Park,1905,6
+Fountain Park,1897,6
+Lewis Place,1898,7
+Kingsway East,1890,17
+Academy,1892,9
+Hamilton Heights,1904,4
+Hamilton Heights,1903,2
+Hamilton Heights,1922,10
+Hamilton Heights,1895,6
+Hamilton Heights,1908,2
+Hamilton Heights,1908,2
+Hamilton Heights,1911,18
+Hamilton Heights,1911,18
+West End,1906,7
+Penrose,1928,4
+Penrose,1928,29
+Penrose,1900,5
+Penrose,1926,10
+Penrose,1906,2
+Penrose,1905,2
+Penrose,1905,12
+Penrose,1916,20
+Penrose,1904,5
+Penrose,1878,2
+Penrose,1961,12
+Penrose,1916,7
+Penrose,1915,9
+O'Fallon,1905,5
+O'Fallon,1905,10
+Greater Ville,1916,1
+Greater Ville,1919,5
+Greater Ville,1896,8
+Greater Ville,1923,20
+Kingsway East,1911,21
+Kingsway East,1911,21
+Greater Ville,1905,8
+Greater Ville,1910,7
+Greater Ville,1910,10
+Greater Ville,1910,7
+Greater Ville,1910,3
+Greater Ville,1923,6
+Greater Ville,1914,23
+Greater Ville,1906,11
+Greater Ville,1909,5
+Kingsway East,1907,19
+Kingsway East,1906,17
+Kingsway East,1905,12
+Kingsway East,1894,10
+Kingsway East,1905,12
+Kingsway East,1904,7
+Kingsway East,1907,14
+Kingsway East,1896,7
+Kingsway East,1897,7
+Kingsway East,1914,16
+Kingsway East,1924,6
+Kingsway East,1908,13
+Kingsway East,1923,4
+Kingsway East,1911,6
+Kingsway East,1897,8
+Kingsway East,1908,6
+Kingsway East,1904,11
+Kingsway West,1903,12
+Kingsway West,1914,10
+Kingsway West,1909,24
+Kingsway West,1928,7
+Kingsway West,1908,5
+Kingsway West,1909,7
+Wells Goodfellow,1904,17
+Wells Goodfellow,1909,7
+Wells Goodfellow,1911,2
+Wells Goodfellow,1915,10
+Wells Goodfellow,1910,12
+Wells Goodfellow,1926,9
+Wells Goodfellow,1905,8
+Lewis Place,1895,5
+Wells Goodfellow,1915,15
+Academy,1902,12
+Vandeventer,1892,9
+O'Fallon,1910,12
+Wells Goodfellow,1902,7
+Wells Goodfellow,1907,3
+Wells Goodfellow,1902,1
+Wells Goodfellow,1912,5
+Wells Goodfellow,1925,2
+Wells Goodfellow,1911,7
+Wells Goodfellow,1911,7
+Kingsway East,1923,16
+Kingsway East,1923,16
+Kingsway East,1928,19
+Kingsway East,1900,10
+Kingsway West,1910,12
+O'Fallon,1914,18
+Mark Twain,1925,15
+Mark Twain,1915,8
+Mark Twain,1904,5
+Walnut Park East,1914,1
+Mark Twain,1919,7
+Mark Twain,1923,7
+Jeff Vanderlou,1907,10
+Wells Goodfellow,1910,9
+Baden,1902,14
+Baden,1902,14
+Baden,1905,9
+Jeff Vanderlou,1902,24
+Baden,1902,5
+Penrose,1920,2
+Wells Goodfellow,1912,15
+Baden,1929,13
+Kingsway East,1906,10
+Baden,1914,8
+Kingsway West,1907,6
+Mark Twain,1914,19
+Mark Twain,1911,7
+Walnut Park West,1942,10
+Walnut Park West,1928,6
+Walnut Park West,1913,8
+Walnut Park West,1908,12
+Walnut Park West,1953,6
+Walnut Park West,1929,4
+Walnut Park West,1926,12
+Baden,1907,3
+Walnut Park East,1922,3
+Walnut Park East,1911,3
+Walnut Park East,1924,11
+Walnut Park East,1926,6
+Walnut Park East,1925,8
+Walnut Park East,1924,10
+Walnut Park East,1923,3
+Baden,1909,15
+Mark Twain,1929,8
+Walnut Park East,1926,12
+Walnut Park East,1922,16
+Walnut Park West,1923,8
+Walnut Park West,1925,9
+Penrose,1910,8
+Walnut Park West,1930,9
+Wells Goodfellow,1924,5
+Wells Goodfellow,1924,5
+College Hill,1890,11
+O'Fallon,1909,2
+O'Fallon,1890,4
+Fountain Park,1895,4
+Kingsway East,1884,11
+Hamilton Heights,1895,6
+Baden,1902,8
+Baden,1907,20
+Penrose,1906,6
+Penrose,1905,2
+Penrose,1890,5
+Penrose,1890,7
+Penrose,1905,2
+Penrose,1903,12
+Penrose,1905,9
+Penrose,1892,12
+Penrose,1898,10
+Penrose,1896,16
+O'Fallon,1893,13
+O'Fallon,1894,14
+O'Fallon,1890,10
+Kingsway West,1891,13
+Wells Goodfellow,1891,6
+Wells Goodfellow,1909,6
+Mark Twain,1910,7
+Mark Twain,1912,4
+Mark Twain,1906,14
+Mark Twain,1905,6
+Mark Twain,1905,6
+Mark Twain,1909,3
+Mark Twain,1909,2
+Mark Twain,1909,8
+Mark Twain,1908,2
+Walnut Park East,1922,10
+Walnut Park East,1909,2
+Walnut Park East,1922,5
+Walnut Park East,1914,8
+Walnut Park East,1899,7
+Wells Goodfellow,1909,6
+Wells Goodfellow,1924,4
+Wells Goodfellow,1925,13
+Wells Goodfellow,1925,13
+Wells Goodfellow,1925,7
+Wells Goodfellow,1925,7
+Walnut Park East,1917,11
+Mark Twain,1912,5
+Mark Twain,1925,13
+Mark Twain,1925,13
+Walnut Park East,1909,7
+Walnut Park East,1905,10
+Walnut Park East,1925,3
+Walnut Park East,1959,3
+Walnut Park East,1907,3
+Walnut Park East,1909,12
+Walnut Park East,1906,2
+Walnut Park East,1911,9
+Walnut Park East,1921,8
+Walnut Park East,1908,14
+Walnut Park West,1928,6
+Walnut Park West,1925,8
+Walnut Park West,1907,2
+Walnut Park West,1924,3
+Walnut Park West,1915,8
+Walnut Park West,1921,3
+Walnut Park West,1914,10
+Walnut Park West,1929,3
+Walnut Park West,1911,18
+Walnut Park West,1927,10
+Walnut Park West,1924,9
+Walnut Park West,1924,14
+Walnut Park West,1908,4
+Walnut Park East,1904,3
+Walnut Park East,1928,8
+Walnut Park East,1922,12
+Baden,1924,17
+Baden,1958,17
+Baden,1909,4
+Walnut Park West,1909,9
+Penrose,1907,3
+Penrose,1907,6
+Penrose,1908,8
+Mark Twain,1908,8
+Walnut Park East,1922,16
+Walnut Park East,1912,5
+Walnut Park East,1923,11
+Walnut Park East,1922,13
+Walnut Park East,1922,3
+Walnut Park East,1911,5
+Walnut Park East,1928,20
+Baden,1909,9
+Walnut Park East,1962,1
+Mark Twain,1910,5
+Walnut Park East,1913,16
+Walnut Park East,1925,3
+Walnut Park East,1913,10
+Walnut Park East,1909,3
+Walnut Park East,1909,2
+Baden,1904,11
+Walnut Park West,1916,2
+Walnut Park East,1906,7
+Walnut Park East,1927,8
+Fairground Neighborhood,1893,6
+Jeff Vanderlou,1907,6
+Fairground Neighborhood,1897,9
+College Hill,1895,8
+Dutchtown,1890,7
+Dutchtown,1890,8
+Fairground Neighborhood,1909,15
+Fairground Neighborhood,1906,11
+Fairground Neighborhood,1911,20
+O'Fallon,1916,5
+O'Fallon,1910,5
+O'Fallon,1908,14
+O'Fallon,1908,14
+Jeff Vanderlou,1902,6
+Greater Ville,1911,7
+Kingsway East,1889,12
+Hamilton Heights,1909,3
+Penrose,1928,7
+Penrose,1931,4
+Penrose,1905,12
+Greater Ville,1922,14
+Greater Ville,1916,3
+Greater Ville,1911,11
+Kingsway East,1909,14
+Kingsway East,1912,10
+Kingsway East,1906,5
+Kingsway East,1909,12
+Walnut Park East,1903,3
+Walnut Park East,1908,2
+Walnut Park East,1922,3
+Mark Twain,1928,2
+Wells Goodfellow,1910,4
+Wells Goodfellow,1920,10
+Wells Goodfellow,1926,5
+Kingsway East,1907,10
+Kingsway West,1906,9
+Walnut Park East,1931,11
+Walnut Park East,1925,2
+Walnut Park East,1929,4
+Wells Goodfellow,1923,10
+Walnut Park East,1915,7
+Greater Ville,1892,17
+Kingsway East,1885,12
+Baden,1906,4
+Penrose,1900,7
+Penrose,1905,7
+Mark Twain,1923,8
+Walnut Park East,1923,10
+Baden,1924,1
+Baden,1904,14
+Mark Twain,1905,6
+Baden,1907,11
+Walnut Park East,1950,3
+Mark Twain,1911,7
+Walnut Park West,1915,8
+Walnut Park West,1924,8
+Walnut Park West,1909,15
+Walnut Park West,1924,10
+Walnut Park West,1909,10
+Baden,1958,8
+Baden,1930,3
+Baden,1936,1
+Walnut Park East,1920,3
+Walnut Park East,1921,6
+Walnut Park East,1923,3
+Walnut Park East,1926,3
+Baden,1900,1
+Baden,1906,20
+Walnut Park East,1916,8
+Walnut Park East,1909,3
+Marine Villa,1884,18
+Fairground Neighborhood,1893,13
+Hyde Park,1903,8
+Hyde Park,1890,14
+Hyde Park,1870,5
+Marine Villa,1890,8
+Fairground Neighborhood,1909,6
+O'Fallon,1893,10
+Greater Ville,1902,14
+Fountain Park,1897,9
+Kingsway East,1890,18
+Academy,1892,7
+Academy,1892,2
+Hamilton Heights,1895,2
+West End,1900,6
+Hamilton Heights,1902,2
+Baden,1880,6
+Penrose,1909,8
+Greater Ville,1902,17
+Kingsway East,1892,7
+Kingsway East,1906,7
+Kingsway East,1904,7
+Kingsway East,1890,7
+Kingsway West,1903,16
+Wells Goodfellow,1893,2
+Academy,1898,9
+Wells Goodfellow,1947,11
+O'Fallon,1908,20
+Kingsway West,1907,4
+Mark Twain,1908,1
+Walnut Park East,1909,3
+Walnut Park East,1907,3
+Walnut Park East,1908,7
+Walnut Park West,1925,9
+Walnut Park West,1927,6
+Baden,1904,9
+Mark Twain,1911,3
+Baden,1907,10
+Greater Ville,1894,10
+Penrose,1923,7
+Greater Ville,1907,19
+Baden,1929,15
+Walnut Park East,1906,10
+Baden,1914,4
+O'Fallon,1896,25
+O'Fallon,1896,25
+Walnut Park East,1927,1
+The Ville,1926,10
+Fountain Park,1892,5
+Hamilton Heights,1895,7
+Mark Twain,1910,15
+Baden,1907,11
+Mark Twain I-70 Industrial,1930,1
+College Hill,1900,6
+Penrose,1928,2
+Hamilton Heights,1895,2
+West End,1906,8
+Mark Twain,1925,7
+Walnut Park West,1960,5
+Walnut Park East,1939,11
+Greater Ville,1895,6
+Vandeventer,1899,12
+Vandeventer,1892,11
+Mount Pleasant,1892,5
+North Riverfront,1893,15
+Greater Ville,1902,12
+The Ville,1900,8
+The Ville,1890,9
+The Ville,1886,19
+The Ville,1884,28
+The Ville,1889,8
+Greater Ville,1927,23
+Vandeventer,1891,6
+Jeff Vanderlou,1908,6
+Jeff Vanderlou,1907,15
+Hyde Park,1908,20
+College Hill,1902,16
+College Hill,1899,15
+College Hill,1899,15
+Jeff Vanderlou,1914,19
+Jeff Vanderlou,1904,14
+Greater Ville,1897,24
+Greater Ville,1908,7
+Greater Ville,1895,11
+Greater Ville,1895,7
+Greater Ville,1910,27
+Greater Ville,1908,3
+The Ville,1885,19
+The Ville,1910,12
+The Ville,1909,10
+The Ville,1911,10
+The Ville,1911,16
+The Ville,1922,20
+The Ville,1905,11
+The Ville,1905,10
+The Ville,1897,26
+The Ville,1900,16
+The Ville,1900,18
+The Ville,1897,20
+The Ville,1928,25
+The Ville,1928,25
+The Ville,1890,16
+The Ville,1902,13
+The Ville,1927,8
+The Ville,1892,18
+The Ville,1884,14
+The Ville,1883,12
+Greater Ville,1899,20
+Greater Ville,1907,21
+Greater Ville,1902,19
+Greater Ville,1890,7
+Greater Ville,1929,20
+Greater Ville,1890,27
+Greater Ville,1900,16
+Greater Ville,1892,12
+Greater Ville,1895,27
+Greater Ville,1895,10
+Greater Ville,1898,10
+Greater Ville,1890,17
+Vandeventer,1884,17
+Lewis Place,1894,10
+Lewis Place,1903,10
+Lewis Place,1895,7
+Lewis Place,1897,18
+Lewis Place,1898,12
+Lewis Place,1903,9
+Lewis Place,1907,19
+Lewis Place,1907,13
+Fountain Park,1912,21
+Fountain Park,1901,9
+Fountain Park,1901,6
+Fountain Park,1901,5
+Academy,1892,18
+Academy,1892,7
+Academy,1896,11
+Academy,1896,9
+Academy,1892,5
+Academy,1903,15
+Academy,1903,9
+Wells Goodfellow,1906,15
+Hamilton Heights,1898,8
+Hamilton Heights,1891,2
+Hamilton Heights,1907,9
+Hamilton Heights,1898,6
+Hamilton Heights,1909,9
+West End,1908,21
+Hamilton Heights,1903,14
+Hamilton Heights,1904,5
+West End,1911,3
+Hamilton Heights,1910,10
+Hamilton Heights,1910,10
+Hamilton Heights,1908,12
+O'Fallon,1908,17
+Greater Ville,1939,24
+Greater Ville,1939,14
+Greater Ville,1939,14
+Greater Ville,1893,12
+Greater Ville,1893,12
+Greater Ville,1907,12
+Greater Ville,1907,12
+Greater Ville,1915,9
+Greater Ville,1904,26
+Greater Ville,1911,12
+Greater Ville,1911,15
+Wells Goodfellow,1908,20
+Wells Goodfellow,1908,10
+Wells Goodfellow,1909,6
+Wells Goodfellow,1909,6
+Wells Goodfellow,1908,9
+Wells Goodfellow,1892,2
+Wells Goodfellow,1926,12
+Wells Goodfellow,1926,18
+Vandeventer,1902,6
+Wells Goodfellow,1905,12
+Wells Goodfellow,1905,12
+Wells Goodfellow,1891,7
+Wells Goodfellow,1913,12
+Wells Goodfellow,1920,15
+Academy,1902,19
+Academy,1899,17
+Academy,1895,9
+Academy,1901,25
+Wells Goodfellow,1910,14
+Wells Goodfellow,1911,11
+Wells Goodfellow,1909,21
+Lewis Place,1904,5
+Mark Twain,1919,12
+Academy,1902,11
+Wells Goodfellow,1942,10
+Wells Goodfellow,1909,16
+Wells Goodfellow,1908,10
+Hamilton Heights,1907,16
+Wells Goodfellow,1913,14
+Wells Goodfellow,1912,10
+Wells Goodfellow,1924,17
+The Ville,1886,21
+The Ville,1884,11
+Wells Goodfellow,1902,17
+Wells Goodfellow,1906,12
+Wells Goodfellow,1908,6
+Wells Goodfellow,1906,12
+Wells Goodfellow,1909,14
+Wells Goodfellow,1909,18
+Wells Goodfellow,1903,15
+Wells Goodfellow,1903,14
+Walnut Park East,1914,3
+West End,1906,14
+Patch,1893,5
+Fairground Neighborhood,1907,5
+Hyde Park,1890,13
+Greater Ville,1910,10
+Jeff Vanderlou,1928,7
+Lewis Place,1894,5
+Fountain Park,1900,19
+Jeff Vanderlou,1909,29
+The Ville,1885,17
+Fairground Neighborhood,1898,28
+Greater Ville,1892,20
+The Ville,1907,21
+Greater Ville,1900,13
+Greater Ville,1898,29
+Fountain Park,1893,13
+Lewis Place,1897,29
+Academy,1892,22
+West End,1904,18
+West End,1895,4
+Hamilton Heights,1904,10
+Hamilton Heights,1898,9
+West End,1897,11
+Lewis Place,1898,14
+Lewis Place,1897,6
+Vandeventer,1888,21
+Academy,1897,15
+Academy,1900,11
+Academy,1901,23
+Academy,1897,18
+Vandeventer,1890,10
+Academy,1902,20
+Greater Ville,1903,7
+Greater Ville,1885,23
+Wells Goodfellow,1908,22
+Wells Goodfellow,1902,20
+Wells Goodfellow,1901,11
+Academy,1891,2
+Fairground Neighborhood,1916,22
+College Hill,1886,10
+Hamilton Heights,1908,7
+Fairground Neighborhood,1898,8
+Wells Goodfellow,1908,8
+Hyde Park,1890,19
+Hyde Park,1890,19
+Jeff Vanderlou,1907,6
+Jeff Vanderlou,1908,8
+Jeff Vanderlou,1900,14
+Hyde Park,1892,20
+Hyde Park,1897,27
+Hyde Park,1887,23
+Hyde Park,1892,21
+Hyde Park,1963,12
+Hyde Park,1892,24
+Hyde Park,1913,10
+Fairground Neighborhood,1887,12
+Fairground Neighborhood,1897,11
+Fairground Neighborhood,1908,7
+College Hill,1897,18
+College Hill,1898,26
+College Hill,1883,5
+College Hill,1883,16
+Hyde Park,1893,14
+Hyde Park,1893,11
+College Hill,1892,18
+College Hill,1910,11
+College Hill,1902,11
+Fairground Neighborhood,1923,12
+Fairground Neighborhood,1917,21
+Fairground Neighborhood,1917,6
+Fairground Neighborhood,1917,3
+Fairground Neighborhood,1915,8
+Dutchtown,1890,8
+Dutchtown,1890,5
+Dutchtown,1885,13
+College Hill,1894,22
+Fairground Neighborhood,1891,6
+Fairground Neighborhood,1880,11
+Fairground Neighborhood,1893,12
+College Hill,1884,27
+College Hill,1884,27
+College Hill,1903,20
+College Hill,1908,8
+College Hill,1903,5
+Fairground Neighborhood,1892,3
+Fairground Neighborhood,1908,6
+Fairground Neighborhood,1909,11
+Fairground Neighborhood,1894,11
+College Hill,1902,15
+College Hill,1902,15
+College Hill,1906,27
+College Hill,1906,27
+College Hill,1915,8
+College Hill,1898,5
+O'Fallon,1902,22
+O'Fallon,1893,6
+O'Fallon,1904,15
+O'Fallon,1895,13
+O'Fallon,1913,20
+O'Fallon,1893,23
+Penrose,1924,7
+O'Fallon,1915,14
+O'Fallon,1908,12
+O'Fallon,1914,12
+O'Fallon,1906,9
+O'Fallon,1910,14
+O'Fallon,1908,5
+O'Fallon,1908,20
+Greater Ville,1905,7
+Greater Ville,1897,6
+Greater Ville,1924,8
+Greater Ville,1913,5
+Greater Ville,1927,17
+Jeff Vanderlou,1908,17
+Jeff Vanderlou,1908,17
+Greater Ville,1895,5
+Greater Ville,1911,8
+Greater Ville,1905,5
+Greater Ville,1911,10
+Greater Ville,1909,8
+The Ville,1906,3
+Greater Ville,1911,8
+Greater Ville,1900,9
+Covenant Blu-Grand Center,1905,6
+Lewis Place,1894,6
+Lewis Place,1901,7
+Kingsway East,1884,17
+Kingsway East,1909,14
+Kingsway East,1904,11
+Academy,1892,7
+Hamilton Heights,1903,7
+West End,1903,8
+Baden,1902,9
+Penrose,1904,9
+O'Fallon,1911,16
+O'Fallon,1911,14
+Greater Ville,1908,12
+Greater Ville,1909,15
+Greater Ville,1911,13
+Greater Ville,1899,4
+Greater Ville,1896,9
+Greater Ville,1916,9
+Greater Ville,1906,17
+Kingsway East,1908,9
+Kingsway East,1894,11
+Kingsway East,1905,14
+Kingsway East,1909,14
+Kingsway East,1906,7
+Kingsway West,1906,19
+Wells Goodfellow,1923,3
+Wells Goodfellow,1911,7
+Walnut Park West,1927,16
+Kingsway East,1922,6
+Wells Goodfellow,1927,9
+Jeff Vanderlou,1914,17
+Wells Goodfellow,1929,7
+Baden,1929,6
+Kingsway East,1906,10
+Kingsway East,1909,10
+Hamilton Heights,1907,5
+Walnut Park East,1923,5
+Walnut Park West,1912,12
+Walnut Park East,1924,5
+Walnut Park East,1927,23
+Penrose,1907,10
+Penrose,1907,10
+Walnut Park East,1926,14
+Walnut Park East,1918,11
+Walnut Park East,1926,16
+Walnut Park East,1926,12
+Mark Twain,1923,2
+Mark Twain,1915,17
+Penrose,1875,13
+Kingsway West,1924,22
+Kingsway West,1924,22
+Kingsway West,1925,10
+Jeff Vanderlou,1890,6
+Hyde Park,1890,17
+College Hill,1883,18
+Fairground Neighborhood,1972,6
+Kingsway East,1888,18
+Penrose,1906,9
+Penrose,1905,8
+Penrose,1909,12
+Kingsway East,1893,19
+O'Fallon,1894,23
+Mark Twain,1906,8
+Mark Twain,1910,8
+Walnut Park East,1903,3
+Walnut Park East,1899,12
+Walnut Park East,1921,3
+Wells Goodfellow,1908,14
+Wells Goodfellow,1915,13
+Walnut Park East,1906,3
+Walnut Park East,1968,15
+Walnut Park East,1950,3
+Walnut Park East,1909,12
+Walnut Park East,1909,10
+Walnut Park East,1915,14
+Walnut Park East,1924,12
+Walnut Park East,1909,18
+Walnut Park West,1906,3
+Walnut Park West,1960,10
+Walnut Park West,1909,9
+Walnut Park East,1924,12
+Walnut Park East,1908,1
+Baden,1907,9
+Baden,1912,19
+Walnut Park East,1907,11
+Penrose,1907,20
+Walnut Park East,1910,8
+Mark Twain,1910,16
+Mark Twain,1911,8
+Walnut Park East,1923,6
+College Hill,1883,5
+Baden,1930,4
+Fairground Neighborhood,1894,11
+Dutchtown,1895,6
+Fairground Neighborhood,1891,6
+Fairground Neighborhood,1899,20
+Fairground Neighborhood,1894,28
+O'Fallon,1923,12
+O'Fallon,1910,15
+Fairground Neighborhood,1906,23
+Jeff Vanderlou,1908,14
+Kingsway East,1909,15
+Kingsway East,1909,15
+Penrose,1927,8
+Penrose,1914,8
+Penrose,1912,12
+Penrose,1927,8
+Penrose,1912,10
+O'Fallon,1914,5
+O'Fallon,1902,9
+Greater Ville,1928,2
+Mark Twain,1911,3
+Walnut Park West,1911,16
+Walnut Park East,1940,4
+Mark Twain,1923,2
+Baden,1917,17
+Mark Twain,1925,5
+O'Fallon,1897,15
+Walnut Park East,1905,10
+Walnut Park West,1924,14
+Walnut Park West,1927,12
+Walnut Park West,1927,14
+Walnut Park West,1948,8
+Baden,1929,13
+Penrose,1907,9
+Hyde Park,1894,26
+Hyde Park,1895,8
+College Hill,1889,10
+College Hill,1885,1
+O'Fallon,1905,19
+Jeff Vanderlou,1905,27
+Jeff Vanderlou,1905,27
+Greater Ville,1902,10
+Greater Ville,1897,6
+The Ville,1893,7
+Greater Ville,1901,7
+Greater Ville,1901,7
+Fountain Park,1894,8
+Lewis Place,1891,6
+Kingsway East,1889,19
+Academy,1894,8
+Academy,1891,7
+Penrose,1884,17
+Greater Ville,1897,26
+Kingsway East,1899,13
+Vandeventer,1890,6
+Walnut Park West,1915,7
+Penrose,1917,8
+Fairground Neighborhood,1900,23
+College Hill,1887,25
+College Hill,1887,25
+College Hill,1887,25
+College Hill,1887,25
+Kingsway East,1889,16
+Penrose,1896,10
+Carondelet,1890,13
+Walnut Park West,1906,6
+Walnut Park East,1911,8
+Walnut Park West,1912,25
+Kingsway East,1900,21
+O'Fallon,1905,17
+Walnut Park East,1928,2
+Greater Ville,1906,14
+The Ville,1884,5
+Greater Ville,1906,28
+Covenant Blu-Grand Center,1907,28
+Covenant Blu-Grand Center,1907,28
+Covenant Blu-Grand Center,1907,28
+Covenant Blu-Grand Center,1907,28
+Vandeventer,1892,23
+Vandeventer,1892,23
+Greater Ville,1916,13
+West End,1904,12
+Academy,1901,29
+College Hill,1916,11
+O'Fallon,1906,23
+Penrose,1928,15
+O'Fallon,1914,8
+Mark Twain,1910,14
+Mark Twain,1923,12
+Jeff Vanderlou,1910,18
+Wells Goodfellow,1902,13
+Academy,1897,7
+Fairground Neighborhood,1915,11
+Greater Ville,1904,12
+College Hill,1911,2
+Fairground Neighborhood,1892,2
+Mark Twain,1921,0
+South Hampton,1947,0
+Princeton Heights,1914,0
+Dutchtown,1937,0
+Hyde Park,1870,0
+Dutchtown,1895,0
+Walnut Park East,1922,7
+Walnut Park West,1926,1
+O'Fallon,1892,1
+Walnut Park East,1912,0
+Wells Goodfellow,1942,2
+Baden,1914,0
+Walnut Park East,1916,5
+Walnut Park West,1950,0
+Mount Pleasant,1894,0
+Dutchtown,1926,0
+Wells Goodfellow,1907,1
+Walnut Park West,1939,0
+Mark Twain I-70 Industrial,1939,0
+Gravois Park,1910,7
+Gravois Park,1905,3
+Mark Twain,2007,3
+Walnut Park East,2009,14
+Dutchtown,1908,7
+Hyde Park,2006,7
+Hyde Park,2006,7
+Hyde Park,2006,7
+Visitation Park,1960,13
+Dutchtown,1901,11
+Hyde Park,2006,17
+Mount Pleasant,1890,3
+Hyde Park,1890,6
+Greater Ville,1924,1
+Kingsway East,1924,4
+Carondelet,1950,7
+The Ville,1996,7
+Hi-Pointe,1948,1
+The Ville,1889,4
+Forest Park South East,1888,2
+Jeff Vanderlou,1913,3
+Mount Pleasant,1898,8
+Mount Pleasant,1890,1
+Mount Pleasant,1922,2
+Dutchtown,1909,4
+Carondelet,1925,1
+College Hill,1963,2
+College Hill,1903,2
+Benton Park West,1897,4
+O'Fallon,1912,9
+Jeff Vanderlou,1908,12
+Greater Ville,1906,1
+The Ville,1928,3
+The Ville,1926,9
+Greater Ville,1890,3
+Vandeventer,1905,6
+Academy,1896,5
+Academy,1891,8
+The Ville,1895,7
+West End,1903,4
+Forest Park South East,1897,7
+Kings Oak,1911,3
+Tower Grove South,1905,4
+Penrose,1907,2
+Penrose,1911,2
+Penrose,1883,3
+Penrose,1914,2
+Penrose,1927,1
+O'Fallon,1908,13
+O'Fallon,1892,1
+Greater Ville,1912,5
+Greater Ville,1964,4
+Greater Ville,1911,11
+Kingsway East,1897,12
+Wells Goodfellow,1958,2
+Wells Goodfellow,1906,1
+Wells Goodfellow,1910,2
+Walnut Park West,1928,7
+Botanical Heights,1897,5
+Forest Park South East,1906,3
+Jeff Vanderlou,1904,4
+Greater Ville,1906,1
+Wells Goodfellow,1908,1
+Baden,1958,1
+Baden,1905,1
+Baden,1928,1
+Walnut Park West,1951,1
+O'Fallon,1910,3
+Penrose,1890,5
+Baden,1917,1
+North Pointe,1952,1
+Southwest Garden,1926,1
+Baden,1946,1
+Tower Grove South,1916,2
+Tower Grove South,1914,3
+Clayton-Tamm,1929,4
+Forest Park South East,1971,6
+Cheltenham,1909,5
+Baden,1997,8
+Penrose,1910,1
+O'Fallon,1972,9
+Wells Goodfellow,2002,10
+Walnut Park West,1918,3
+Walnut Park East,1997,2
+Walnut Park East,1997,13
+Walnut Park East,1997,1
+Baden,1927,9
+Franz Park,1930,4
+Hi-Pointe,1922,1
+Baden,1926,3
+Bevo Mill,1908,1
+Bevo Mill,1925,4
+Hi-Pointe,1946,1
+Tower Grove South,1920,3
+Clayton-Tamm,1942,2
+Jeff Vanderlou,1911,8
+Wells Goodfellow,1954,1
+Carondelet,1918,2
+Carondelet,1899,1
+College Hill,1950,1
+Greater Ville,1908,1
+Kingsway East,1893,4
+The Ville,1890,13
+West End,1906,2
+North Pointe,1952,3
+Penrose,1959,5
+Penrose,1928,7
+Penrose,1927,1
+Penrose,1952,1
+Penrose,1926,4
+Kingsway West,1965,4
+Wells Goodfellow,1922,4
+Baden,1924,1
+Wells Goodfellow,1942,3
+Baden,1926,4
+Baden,1908,11
+Wells Goodfellow,1925,1
+Wells Goodfellow,1953,5
+Tower Grove South,1915,3
+Clayton-Tamm,1922,3
+O'Fallon,1891,5
+Wells Goodfellow,1904,3
+North Hampton,1924,3
+Baden,1911,3
+Jeff Vanderlou,1890,4
+O'Fallon,1905,9
+Vandeventer,1890,5
+Walnut Park West,1939,8
+Wells Goodfellow,1905,6
+Baden,1939,1
+North Riverfront,1929,9
+O'Fallon,1908,12
+Greater Ville,1888,5
+Kingsway East,1906,3
+Tower Grove South,1922,4
+Baden,1939,1
+North Hampton,1941,2
+Fairground Neighborhood,1902,17
+O'Fallon,1905,7
+Soulard,1885,1
+Penrose,1961,2
+Wells Goodfellow,1908,1
+Wells Goodfellow,1904,3
+Walnut Park East,1927,3
+Walnut Park West,1936,1
+Mark Twain,1919,2
+Baden,1955,3
+Walnut Park West,1960,1
+Penrose,1925,2
+Wells Goodfellow,1923,2
+Wells Goodfellow,1905,6
+Baden,1904,4
+Walnut Park West,1930,4
+Jeff Vanderlou,1928,4
+Carondelet,1911,1
+O'Fallon,1908,4
+Greater Ville,1925,4
+Penrose,1925,2
+Kingsway West,1910,1
+Wells Goodfellow,1953,3
+Baden,1939,1
+Tower Grove South,1926,2
+West End,1905,19
+O'Fallon,1890,5
+Baden,1924,1
+North Pointe,1955,1
+Baden,1924,1
+The Ville,1890,2
+O'Fallon,1893,7
+Greater Ville,1922,5
+Kingsway West,1963,4
+Walnut Park West,1940,1
+Walnut Park East,1983,13
+Mark Twain,1919,15
+Kingsway East,1908,10
+Benton Park West,1887,6
+Jeff Vanderlou,1888,11
+Jeff Vanderlou,1904,7
+Dutchtown,1909,9
+O'Fallon,1911,2
+O'Fallon,1926,10
+Greater Ville,1907,3
+Vandeventer,1895,6
+Fountain Park,1912,1
+Vandeventer,1915,6
+Penrose,1895,7
+Penrose,1895,7
+Wells Goodfellow,1926,2
+Wells Goodfellow,1902,7
+Skinker DeBaliviere,1914,8
+Baden,1917,4
+Mount Pleasant,1895,3
+O'Fallon,1895,9
+Kingsway West,1905,4
+Penrose,1906,2
+Walnut Park East,1915,3
+Mark Twain,1926,17
+Bevo Mill,1949,7
+Hyde Park,1916,12
+Baden,1924,1
+Baden,1924,1
+Wells Goodfellow,1911,8
+Kingsway East,1896,9
+West End,1950,11
+Wells Goodfellow,1897,2
+North Pointe,1936,1
+Penrose,1926,1
+The Ville,2005,8
+Princeton Heights,1876,1
+Hyde Park,1892,9
+Kingsway East,1909,4
+Penrose,1922,10
+Walnut Park East,1928,16
+West End,1972,3
+Penrose,1910,16
+Wells Goodfellow,1911,8
+Kingsway East,1904,9
+Mount Pleasant,1923,7
+O'Fallon,1891,5
+Baden,1939,9
+Wells Goodfellow,1986,2
+Wells Goodfellow,1912,1
+Hyde Park,1870,22
+Mount Pleasant,1902,4
+Jeff Vanderlou,1880,11
+O'Fallon,1964,2
+Kingsway West,1925,12
+Baden,1907,10
+Southwest Garden,1900,9
+O'Fallon,1890,5
+Baden,1939,7
+Penrose,1925,2
+Penrose,1934,1
+O'Fallon,1893,2
+Jeff Vanderlou,1887,4
+Academy,1898,6
+Baden,1923,21
+Marine Villa,1890,8
+North Hampton,1935,6
+Benton Park West,1901,2
+O'Fallon,1914,1
+Wells Goodfellow,1911,3
+Baden,1948,1
+North Hampton,1931,2
+Forest Park South East,1897,1
+Forest Park South East,1908,1
+North Hampton,1926,1
+Hi-Pointe,1908,1
+O'Fallon,1908,7
+Botanical Heights,1895,20
+Benton Park,1890,4
+O'Fallon,1926,2
+Greater Ville,1911,5
+Hamilton Heights,1908,2
+Walnut Park West,1949,1
+West End,1905,16
+Fairground Neighborhood,1895,5
+Kingsway East,1915,8
+Wells Goodfellow,1927,11
+Franz Park,1956,3
+Baden,1953,4
+South Hampton,1920,3
+Benton Park West,1900,5
+Hyde Park,1926,6
+College Hill,1886,9
+Dutchtown,1895,16
+Carondelet,1907,9
+Kingsway East,1892,4
+Kingsway East,1892,4
+Forest Park South East,1899,4
+Tower Grove South,1925,2
+Penrose,1907,2
+Penrose,1911,2
+Greater Ville,1928,2
+Kingsway East,1937,2
+Greater Ville,1911,2
+Greater Ville,1926,4
+Kingsway East,1885,4
+Kingsway East,1904,5
+Kingsway West,1913,5
+Kingsway West,1903,11
+Kingsway West,1905,4
+Wells Goodfellow,1910,1
+Wells Goodfellow,1909,2
+Hi-Pointe,1910,6
+Mark Twain,1922,4
+Botanical Heights,1921,11
+Wells Goodfellow,1928,2
+College Hill,1909,13
+Baden,1948,1
+Baden,1930,4
+Penrose,1958,2
+Dutchtown,1910,3
+Penrose,1926,3
+Cheltenham,1926,3
+North Pointe,1926,1
+Kingsway West,1925,1
+Tower Grove South,1914,2
+Carondelet,1888,15
+The Ville,1996,4
+Forest Park South East,1955,8
+Forest Park South East,1992,3
+Cheltenham,1904,4
+The Hill,1905,2
+Baden,1919,1
+Wells Goodfellow,1910,2
+West End,1973,3
+Penrose,1907,22
+Walnut Park West,1928,9
+Clayton-Tamm,1898,1
+Bevo Mill,1920,2
+North Pointe,1920,1
+Baden,1949,3
+Carondelet,1965,5
+O'Fallon,1912,1
+Fairground Neighborhood,1894,13
+Greater Ville,1924,5
+Tower Grove South,1911,2
+Penrose,1899,2
+O'Fallon,1907,5
+O'Fallon,1916,1
+Greater Ville,1913,1
+Wells Goodfellow,1910,4
+Kingsway West,1908,2
+Baden,1902,4
+Baden,1948,1
+Baden,1949,1
+Kingsway West,1925,1
+North Pointe,1926,2
+North Hampton,1942,1
+Baden,1934,1
+Baden,1948,1
+Baden,1949,3
+Clifton Heights,1956,2
+Walnut Park East,1904,2
+Walnut Park West,1928,2
+Baden,1926,1
+Hamilton Heights,1905,3
+Penrose,1925,7
+Greater Ville,1903,5
+Greater Ville,1909,7
+Walnut Park West,1931,2
+South Hampton,1932,5
+Baden,1941,3
+Tower Grove South,1927,3
+Benton Park West,1884,9
+College Hill,1990,1
+Tower Grove South,1888,2
+Jeff Vanderlou,1894,3
+Benton Park West,1926,1
+College Hill,1895,8
+Greater Ville,1911,5
+Kingsway East,1912,6
+Penrose,1915,2
+Penrose,1927,5
+Kingsway East,1910,4
+Kingsway West,1909,2
+Wells Goodfellow,1898,1
+Wells Goodfellow,1919,2
+Penrose,1927,7
+Wells Goodfellow,1961,1
+Wells Goodfellow,1912,5
+Walnut Park East,1904,1
+Walnut Park East,1959,2
+Mark Twain,1925,1
+Fairground Neighborhood,1886,1
+Fairground Neighborhood,1922,1
+The Ville,1902,4
+Kingsway West,1915,2
+Kingsway West,1909,2
+Walnut Park West,1957,2
+Walnut Park West,1950,4
+Mount Pleasant,1908,2
+Kingsway East,1890,5
+Penrose,1933,2
+Kingsway West,1906,4
+Mark Twain,1922,1
+Wells Goodfellow,1894,2
+Walnut Park East,1923,2
+Baden,1923,4
+Dutchtown,1906,7
+Patch,1888,7
+O'Fallon,1899,11
+Mark Twain,1971,10
+Benton Park West,1902,5
+Gravois Park,1885,10
+Marine Villa,1909,5
+Dutchtown,1908,4
+Dutchtown,1898,6
+Mount Pleasant,1892,2
+College Hill,1884,3
+Jeff Vanderlou,1905,15
+Greater Ville,1906,5
+Fountain Park,1908,11
+Hamilton Heights,1912,1
+Hamilton Heights,1911,10
+Forest Park South East,1909,10
+Penrose,1925,4
+Penrose,1924,8
+Penrose,1915,2
+Penrose,1915,1
+Penrose,1913,7
+Penrose,1913,14
+Penrose,1890,7
+O'Fallon,1904,10
+O'Fallon,1910,9
+Kingsway East,1904,5
+Kingsway West,1923,2
+Kingsway West,1909,7
+Wells Goodfellow,1909,14
+Wells Goodfellow,1895,5
+Forest Park South East,1906,3
+Mark Twain,1916,4
+Wells Goodfellow,1928,9
+Walnut Park East,1953,3
+Skinker DeBaliviere,1911,7
+Walnut Park East,1920,2
+Walnut Park West,1930,5
+The Ville,1898,8
+The Ville,1996,4
+West End,1973,6
+Wells Goodfellow,1906,5
+Dutchtown,1918,7
+Wells Goodfellow,1913,8
+Baden,1926,9
+Ellendale,1919,6
+Dutchtown,1893,5
+Dutchtown,1905,8
+Mount Pleasant,1908,1
+Penrose,1916,1
+Kingsway East,1920,2
+Kingsway West,1915,2
+Wells Goodfellow,1910,8
+Baden,1929,3
+Greater Ville,1912,7
+Wells Goodfellow,1925,9
+Baden,1938,3
+Kingsway West,1927,8
+Kingsway East,1884,10
+Tower Grove South,1890,3
+Walnut Park East,1907,7
+Benton Park West,1922,9
+Marine Villa,1890,5
+Dutchtown,1925,5
+Greater Ville,1898,1
+O'Fallon,1895,7
+Dutchtown,1905,4
+Baden,1929,4
+Bevo Mill,1923,11
+O'Fallon,1890,11
+Walnut Park West,1909,3
+Gravois Park,1890,14
+Mount Pleasant,1914,11
+Carondelet,1890,4
+Carondelet,1890,4
+Hamilton Heights,1904,2
+Penrose,1925,5
+Penrose,1932,7
+Kingsway West,1907,10
+Kingsway West,1909,4
+Walnut Park West,1927,4
+Baden,1949,3
+Greater Ville,1911,7
+Greater Ville,1922,4
+Greater Ville,1910,6
+Kingsway East,1937,2
+Baden,1909,4
+Baden,1949,3
+Wells Goodfellow,1952,4
+Hamilton Heights,1896,7
+West End,1906,16
+Baden,1955,6
+North Pointe,1937,1
+Kingsway East,1902,4
+Mount Pleasant,1914,6
+Carondelet,1911,4
+Hamilton Heights,1905,5
+Kingsway West,1909,5
+Lindenwood Park,1923,3
+West End,1973,3
+Tower Grove South,1941,6
+Mount Pleasant,1906,2
+Lewis Place,1894,3
+Fountain Park,1894,4
+Central West End,1888,6
+Dutchtown,1892,7
+O'Fallon,1892,2
+Penrose,1916,7
+Dutchtown,1908,7
+Dutchtown,1923,8
+O'Fallon,1911,8
+Kingsway East,1909,6
+O'Fallon,1908,2
+Benton Park West,1895,1
+Dutchtown,1893,8
+Clifton Heights,1911,6
+Dutchtown,1906,8
+North Hampton,1948,3
+Bevo Mill,1914,10
+Walnut Park West,1923,15
+Penrose,1910,5
+Penrose,1925,3
+Bevo Mill,1927,5
+Kingsway East,1904,4
+Benton Park West,1911,4
+Mount Pleasant,1894,3
+Kingsway East,1889,3
+Kingsway East,1962,1
+Baden,1953,4
+Baden,1948,1
+Walnut Park West,1931,3
+Benton Park West,1890,9
+Penrose,1928,1
+Mount Pleasant,1897,2
+North Pointe,1937,1
+O'Fallon,1923,5
+Walnut Park East,1998,14
+Fountain Park,1902,3
+Mount Pleasant,1909,3
+Walnut Park West,1925,16
+Baden,1907,4
+Hamilton Heights,1908,10
+Wells Goodfellow,1963,2
+Walnut Park East,1918,3
+Kingsway East,1919,3
+Greater Ville,1911,8
+Walnut Park East,1896,3
+Hamilton Heights,1889,3
+Kingsway West,1916,10
+Dutchtown,1895,5
+Patch,1897,6
+O'Fallon,1903,15
+Fountain Park,1901,12
+Penrose,1928,7
+Penrose,1928,7
+Penrose,1904,2
+O'Fallon,1879,5
+Penrose,1986,2
+Mark Twain,1922,17
+College Hill,1898,14
+Dutchtown,1925,16
+Penrose,1936,8
+Tower Grove South,1926,4
+Mount Pleasant,1924,2
+Walnut Park East,1924,2
+Baden,1924,14
+Penrose,1894,2
+Lewis Place,1903,5
+Baden,1908,12
+O'Fallon,1911,5
+Kingsway West,1909,9
+Forest Park South East,1895,7
+College Hill,1884,15
+Walnut Park West,1910,13
+Dutchtown,1901,3
+Lindenwood Park,1939,6
+Vandeventer,2009,7
+Carondelet,1925,5
+Mount Pleasant,1908,2
+Mount Pleasant,1900,3
+Greater Ville,1897,5
+Wells Goodfellow,1907,11
+O'Fallon,1926,5
+Walnut Park West,1929,8
+O'Fallon,1905,1
+Benton Park,1890,0
+Walnut Park East,1973,0
+Jeff Vanderlou,1886,0
+The Ville,1962,0
+Kingsway East,1900,0
+Jeff Vanderlou,1900,0
+Greater Ville,1927,0
+Walnut Park East,1904,0
+Peabody Darst Webbe,1895,4
+Hyde Park,1892,0
+Jeff Vanderlou,1884,2
+Walnut Park East,1910,4
+Peabody Darst Webbe,1894,1
+Gravois Park,1910,1
+Jeff Vanderlou,1884,0
+O'Fallon,1910,0
+O'Fallon,1912,0
+Greater Ville,1921,0
+Greater Ville,1922,0
+The Ville,1914,0
+Lewis Place,1900,0
+West End,1906,0
+Hamilton Heights,1908,3
+Mark Twain I-70 Industrial,1925,0
+Greater Ville,1890,0
+Greater Ville,1926,0
+Greater Ville,1910,0
+Greater Ville,1911,0
+Greater Ville,1908,0
+Kingsway West,1914,0
+O'Fallon,1913,0
+Mark Twain,1928,0
+Mark Twain,1923,1
+Wells Goodfellow,1910,0
+Dutchtown,1930,0
+Baden,1905,0
+Mark Twain,1911,0
+Baden,1911,0
+Penrose,1923,0
+Greater Ville,1908,0
+Greater Ville,1922,0
+Kingsway West,1908,0
+Mark Twain,1910,0
+Walnut Park East,1961,0
+Walnut Park West,1930,0
+Baden,1955,0
+Walnut Park West,1927,0
+North Pointe,1948,0
+Mark Twain,1915,2
+Fairground Neighborhood,1915,0
+College Hill,1894,0
+O'Fallon,1910,3
+Greater Ville,1909,0
+Jeff Vanderlou,1904,7
+Kingsway East,1907,0
+Penrose,1914,3
+Greater Ville,1909,0
+Greater Ville,1912,0
+Greater Ville,1910,0
+Kingsway West,1914,0
+Kingsway West,1918,2
+Kingsway West,1924,0
+Wells Goodfellow,1917,0
+Wells Goodfellow,1907,0
+Wells Goodfellow,1908,0
+Jeff Vanderlou,1905,0
+Wells Goodfellow,1921,5
+Walnut Park East,1914,5
+Hyde Park,1885,0
+Penrose,1898,0
+Wells Goodfellow,1906,2
+Mark Twain,1910,0
+Walnut Park West,1913,0
+Hyde Park,1922,0
+Kingsway West,1962,0
+Walnut Park West,1936,2
+Walnut Park East,1923,0
+Marine Villa,1884,0
+O'Fallon,1890,0
+Gravois Park,1910,0
+Dutchtown,1900,2
+Kingsway West,1920,0
+Kingsway East,1890,0
+Peabody Darst Webbe,1894,12
+Marine Villa,1884,0
+Kingsway East,1895,0
+Marine Villa,1890,0
+Walnut Park East,1922,2
+Dutchtown,1880,0
+Academy,1892,0
+Fountain Park,1905,4
+Fountain Park,1905,4
+Mark Twain,1928,4
+Wells Goodfellow,1925,7
+Lewis Place,1890,5
+O'Fallon,1910,1
+Kingsway East,1925,2
+Walnut Park East,1926,2
+College Hill,1900,22
+Kingsway East,1895,11
+Wells Goodfellow,1903,2
+Carondelet,1908,4
+O'Fallon,1911,3
+Greater Ville,1940,6
+Greater Ville,1895,5
+The Ville,1891,8
+The Ville,1956,5
+Fountain Park,1902,8
+West End,1905,3
+Hamilton Heights,1908,2
+Penrose,1909,2
+Penrose,1904,2
+O'Fallon,1907,4
+O'Fallon,1908,4
+O'Fallon,1892,5
+Greater Ville,1917,2
+Greater Ville,1910,5
+Greater Ville,1895,8
+Kingsway East,1906,5
+Kingsway West,1911,1
+Wells Goodfellow,1903,4
+Wells Goodfellow,1904,12
+Wells Goodfellow,1908,4
+O'Fallon,1912,8
+Greater Ville,1910,4
+Wells Goodfellow,1909,2
+Wells Goodfellow,1903,3
+Walnut Park West,1934,8
+Walnut Park West,1925,9
+Penrose,1909,5
+Walnut Park East,1916,1
+Mark Twain,1924,4
+Penrose,1911,2
+Wells Goodfellow,1954,1
+O'Fallon,1971,2
+Penrose,1904,4
+Wells Goodfellow,1904,1
+Wells Goodfellow,1910,4
+Wells Goodfellow,1972,3
+Wells Goodfellow,1902,4
+Walnut Park East,1908,5
+Walnut Park East,1909,3
+Walnut Park East,1914,7
+Walnut Park East,1914,7
+Walnut Park East,1959,2
+Baden,1949,1
+Walnut Park East,1907,16
+Walnut Park East,1926,2
+Walnut Park West,1925,4
+Walnut Park East,1947,3
+Greater Ville,1927,3
+O'Fallon,1906,2
+Fountain Park,1896,5
+Hamilton Heights,1906,4
+Greater Ville,1921,4
+Kingsway East,1891,10
+Hamilton Heights,1892,3
+Hamilton Heights,1901,2
+Wells Goodfellow,1905,12
+Wells Goodfellow,1905,12
+Walnut Park West,1948,1
+Mark Twain,1911,3
+Hyde Park,1895,22
+Penrose,1950,7
+O'Fallon,1909,4
+Baden,1953,16
+Baden,1953,16
+Baden,1909,4
+Kingsway West,1890,5
+Jeff Vanderlou,1891,4
+Jeff Vanderlou,1926,6
+Hyde Park,1898,14
+Hyde Park,1913,7
+Hyde Park,1913,7
+Hyde Park,1913,7
+Fairground Neighborhood,1888,8
+Fairground Neighborhood,1906,2
+Fairground Neighborhood,1925,11
+College Hill,1890,1
+College Hill,1916,9
+Dutchtown,1900,5
+Dutchtown,1885,5
+O'Fallon,1900,5
+O'Fallon,1915,2
+O'Fallon,1910,1
+O'Fallon,1911,3
+O'Fallon,1893,2
+O'Fallon,1889,2
+O'Fallon,1906,1
+Greater Ville,1906,14
+Greater Ville,1940,8
+Greater Ville,1910,5
+Greater Ville,1907,5
+Greater Ville,1907,8
+Hamilton Heights,1896,15
+Hamilton Heights,1906,2
+Hamilton Heights,1907,6
+Baden,1905,8
+Penrose,1923,2
+Penrose,1897,17
+Penrose,1897,3
+Penrose,1904,8
+Penrose,1912,2
+Penrose,1915,8
+Penrose,1913,3
+Penrose,1917,2
+Penrose,1926,5
+Greater Ville,1910,3
+Greater Ville,1907,3
+Kingsway East,1880,9
+Kingsway East,1906,7
+Kingsway East,1926,11
+Kingsway East,1900,10
+Kingsway East,1915,7
+Kingsway East,1912,16
+Kingsway East,1909,6
+Kingsway East,1923,9
+Kingsway East,1923,9
+Kingsway West,1909,5
+Kingsway West,1909,5
+Wells Goodfellow,1896,2
+Wells Goodfellow,1920,4
+Lewis Place,1895,6
+Wells Goodfellow,1902,6
+Walnut Park East,1907,3
+Baden,1911,9
+Walnut Park West,1925,2
+Baden,1909,9
+Walnut Park East,1915,7
+Wells Goodfellow,1911,8
+Penrose,1890,10
+Penrose,1907,8
+Walnut Park West,1925,5
+O'Fallon,1899,4
+O'Fallon,1972,5
+O'Fallon,1900,7
+O'Fallon,1890,10
+Greater Ville,1891,6
+Wells Goodfellow,1911,9
+O'Fallon,1895,2
+Mark Twain,1909,7
+Walnut Park East,1900,6
+Walnut Park East,1914,4
+Walnut Park West,1925,4
+Walnut Park West,1926,8
+Walnut Park West,1958,4
+Walnut Park West,1909,8
+Walnut Park West,1926,2
+Walnut Park West,1929,1
+Baden,1908,4
+Mark Twain,1923,1
+Mark Twain,1910,6
+Walnut Park West,1925,6
+Baden,1954,6
+Baden,1904,3
+Fairground Neighborhood,1894,7
+Hyde Park,1892,14
+Hyde Park,1895,22
+Kingsway East,1893,5
+Kingsway East,1893,5
+Penrose,1928,4
+Penrose,1917,10
+Penrose,1915,8
+Penrose,1913,10
+O'Fallon,1922,7
+O'Fallon,1922,7
+Greater Ville,1895,8
+Kingsway East,1909,9
+Wells Goodfellow,1925,5
+Wells Goodfellow,1895,1
+Wells Goodfellow,1906,6
+Walnut Park East,1912,4
+Mark Twain,1925,2
+Baden,1917,1
+Walnut Park West,1927,13
+Walnut Park West,1930,14
+O'Fallon,1910,5
+Penrose,1912,7
+Kingsway East,1913,4
+Kingsway East,1902,9
+Jeff Vanderlou,1902,6
+North Pointe,1938,5
+Baden,1903,8
+Greater Ville,1919,8
+Penrose,1922,7
+O'Fallon,1905,7
+O'Fallon,1905,7
+Wells Goodfellow,1904,8
+Wells Goodfellow,1904,8
+Walnut Park East,1909,2
+Jeff Vanderlou,1904,8
+College Hill,1875,8
+College Hill,1893,27
+Dutchtown,1895,8
+Dutchtown,1905,8
+Fairground Neighborhood,1899,4
+O'Fallon,1912,8
+O'Fallon,1914,5
+O'Fallon,1910,5
+Kingsway East,1889,5
+Greater Ville,1891,12
+Kingsway East,1909,6
+Kingsway East,1899,15
+Kingsway West,1908,11
+Wells Goodfellow,1912,2
+Wells Goodfellow,1908,2
+Wells Goodfellow,1925,6
+Wells Goodfellow,1925,6
+Wells Goodfellow,1915,7
+Mark Twain,1906,8
+Wells Goodfellow,1910,7
+Penrose,1911,11
+O'Fallon,1895,7
+Penrose,1897,16
+O'Fallon,1972,17
+Wells Goodfellow,1901,9
+Walnut Park East,1904,10
+Walnut Park West,1909,5
+Walnut Park East,1916,4
+Wells Goodfellow,1972,2
+Penrose,1928,13
+Kingsway West,1906,5
+Kingsway West,1925,5
+Walnut Park West,1925,15
+Walnut Park East,1923,8
+Walnut Park West,1924,4
+Walnut Park East,1925,3
+Academy,1892,7
+Baden,1939,6
+Walnut Park East,1913,3
+Walnut Park West,1922,10
+Carondelet,1913,6
+Penrose,1893,8
+Fountain Park,1892,5
+Jeff Vanderlou,1899,0
+Wells Goodfellow,1910,0
+Tiffany,1906,0
+Mount Pleasant,1907,8
+Central West End,1893,0
+Vandeventer,1895,0
+Carondelet,1854,0
+Hamilton Heights,1910,0
+Greater Ville,1895,0
+Wells Goodfellow,1923,1
+Walnut Park East,1900,1
+Walnut Park West,1927,0
+Baden,1927,0
+Gravois Park,1915,0
+Mark Twain,1905,12
+O'Fallon,1912,2
+Cheltenham,1909,1
+Lewis Place,1916,3
+Near North Riverfront,1887,19
+Wells Goodfellow,1902,2
+Patch,1896,8
+Fountain Park,1894,4
+The Ville,1892,2
+Forest Park South East,1896,6
+Benton Park West,1884,2
+Tower Grove East,1901,8
+St. Louis Place,1902,3
+Jeff Vanderlou,1892,6
+West End,1905,1
+College Hill,1904,4
+Benton Park West,1897,6
+O'Fallon,1908,1
+O'Fallon,1923,1
+Greater Ville,1949,3
+Greater Ville,1899,5
+The Ville,1930,1
+The Ville,1895,4
+The Ville,1925,3
+Greater Ville,1895,10
+Fountain Park,1892,3
+Lewis Place,1900,4
+Academy,1909,2
+Greater Ville,1884,4
+Greater Ville,1921,1
+Hamilton Heights,1909,2
+West End,1904,3
+Hamilton Heights,1909,1
+Hamilton Heights,1909,2
+Hamilton Heights,1907,6
+Forest Park South East,1884,7
+Forest Park South East,1900,7
+Penrose,1878,2
+Penrose,1908,2
+Greater Ville,1928,1
+Kingsway East,1894,1
+Kingsway East,1912,2
+Kingsway East,1908,4
+Wells Goodfellow,1910,7
+Wells Goodfellow,1896,2
+Wells Goodfellow,1900,1
+Wells Goodfellow,1909,2
+Wells Goodfellow,1923,4
+Wells Goodfellow,1926,4
+Wells Goodfellow,1923,1
+Wells Goodfellow,1924,2
+Wells Goodfellow,1908,1
+Wells Goodfellow,1895,1
+Academy,1900,2
+Walnut Park West,1940,4
+North Pointe,1928,1
+McKinley Heights,1879,25
+Jeff Vanderlou,1973,7
+College Hill,1884,4
+Forest Park South East,1892,4
+Cheltenham,1890,1
+West End,1908,1
+O'Fallon,1888,3
+Walnut Park East,1922,3
+Franz Park,1914,6
+Penrose,1910,2
+Hi-Pointe,1901,3
+Benton Park,1894,1
+Benton Park West,1886,1
+Benton Park,1890,1
+Benton Park West,1909,2
+Benton Park West,1908,3
+Patch,1876,7
+Carondelet,1913,1
+O'Fallon,1894,1
+The Ville,1920,10
+The Ville,1895,2
+Fountain Park,1908,4
+Kingsway East,1912,3
+Academy,1895,2
+West End,1901,3
+Baden,1931,1
+O'Fallon,1925,2
+Forest Park South East,1906,1
+Greater Ville,1909,1
+Greater Ville,1908,1
+Hamilton Heights,1911,1
+Wells Goodfellow,1911,9
+Walnut Park West,1936,4
+Wells Goodfellow,1952,3
+Baden,1937,3
+Mark Twain,1910,2
+Fox Park,1884,8
+Clayton-Tamm,1860,2
+Patch,1923,6
+Wells Goodfellow,1907,4
+Hyde Park,1946,6
+O'Fallon,1902,2
+Vandeventer,1891,2
+Academy,1898,1
+West End,1898,2
+West End,1904,9
+Hyde Park,1884,6
+Walnut Park East,1910,4
+Bevo Mill,1911,1
+Penrose,1904,7
+Wells Goodfellow,1906,1
+Jeff Vanderlou,1884,7
+O'Fallon,1908,2
+O'Fallon,1954,2
+Wells Goodfellow,1905,1
+O'Fallon,1908,2
+Greater Ville,1911,1
+The Ville,1911,1
+The Ville,1896,1
+The Ville,1906,8
+Greater Ville,1895,6
+Vandeventer,1883,5
+Fountain Park,1894,4
+Kingsway East,1928,3
+Hamilton Heights,1905,3
+Hamilton Heights,1904,2
+West End,1897,3
+West End,1906,1
+Baden,1905,9
+Greater Ville,1909,1
+Wells Goodfellow,1911,1
+Wells Goodfellow,1910,2
+Lewis Place,1906,5
+Penrose,1911,2
+Greater Ville,1905,1
+O'Fallon,1908,5
+Forest Park South East,1890,3
+Wells Goodfellow,1906,4
+Wells Goodfellow,1904,1
+Wells Goodfellow,1903,3
+Wells Goodfellow,1905,1
+The Gate District,1891,3
+O'Fallon,1896,4
+Penrose,1914,2
+Lewis Place,1916,5
+Penrose,1911,2
+Greater Ville,1884,12
+Wells Goodfellow,1892,3
+Walnut Park East,1924,3
+St. Louis Place,1891,8
+West End,1906,2
+Penrose,1919,1
+Wells Goodfellow,1928,2
+College Hill,1890,6
+O'Fallon,1910,1
+Lewis Place,1893,3
+West End,1912,3
+Wells Goodfellow,1905,5
+Wells Goodfellow,1891,1
+West End,1906,9
+Lewis Place,1899,3
+Jeff Vanderlou,1883,11
+Fairground Neighborhood,1897,9
+St. Louis Place,1890,11
+Hyde Park,1909,7
+Academy,1901,1
+Wells Goodfellow,1905,3
+Wells Goodfellow,1905,6
+Baden,1911,8
+Walnut Park West,1909,2
+Dutchtown,1904,8
+Baden,1914,4
+Wells Goodfellow,1907,4
+Wells Goodfellow,1897,5
+Mark Twain,1940,2
+Jeff Vanderlou,1882,6
+Hyde Park,1899,4
+Baden,1907,12
+Baden,1907,12
+Baden,1907,12
+Dutchtown,1895,9
+College Hill,1900,2
+Walnut Park East,1923,10
+Walnut Park West,1927,11
+Ellendale,1909,12
+Baden,1903,8
+Academy,1900,6
+Greater Ville,1904,4
+Vandeventer,1898,6
+Jeff Vanderlou,1905,9
+Jeff Vanderlou,1889,6
+Jeff Vanderlou,1883,7
+O'Fallon,1911,4
+Vandeventer,1928,1
+College Hill,1897,5
+Jeff Vanderlou,1889,6
+O'Fallon,1891,5
+Hyde Park,1893,13
+O'Fallon,1911,2
+Wells Goodfellow,1925,2
+Walnut Park West,1951,7
+Patch,1897,26
+Patch,1897,26
+Kingsway East,1923,8
+Forest Park South East,1892,1
+Forest Park South East,1908,6
+Botanical Heights,1953,9
+O'Fallon,1896,1
+Walnut Park West,1954,1
+Benton Park,1885,2
+Baden,1905,1
+Forest Park South East,1891,8
+Benton Park West,1887,2
+Benton Park West,1890,9
+Benton Park West,1926,6
+Bevo Mill,1907,3
+O'Fallon,1905,4
+Hi-Pointe,1923,1
+Greater Ville,1892,3
+Kingsway East,1907,2
+Academy,1895,6
+Wells Goodfellow,1903,1
+Greater Ville,1925,8
+Kings Oak,1925,3
+Wells Goodfellow,1908,11
+Academy,1920,3
+Forest Park South East,1899,1
+Benton Park West,1890,2
+Benton Park West,1908,3
+Hyde Park,1909,8
+Hyde Park,1897,6
+Dutchtown,1909,10
+O'Fallon,1910,2
+Greater Ville,1936,4
+Jeff Vanderlou,1898,4
+Greater Ville,1900,8
+Greater Ville,1907,5
+Vandeventer,1890,2
+Vandeventer,1914,5
+Fountain Park,1910,4
+Fountain Park,1905,5
+Lewis Place,1904,5
+Academy,1905,4
+Hamilton Heights,1906,3
+Vandeventer,1895,4
+Tower Grove South,1907,2
+Penrose,1928,3
+Wells Goodfellow,1905,2
+Wells Goodfellow,1911,2
+Lewis Place,1903,4
+Tower Grove South,1891,16
+Kingsway West,1909,5
+Wells Goodfellow,1925,14
+Academy,1903,7
+O'Fallon,1910,2
+Wells Goodfellow,1910,1
+Forest Park South East,1904,6
+Kingsway West,1926,1
+Kingsway West,1907,5
+Walnut Park West,1914,4
+Walnut Park West,1915,4
+Vandeventer,1906,3
+Shaw,1909,4
+Kingsway West,1925,5
+Kingsway West,1912,5
+Wells Goodfellow,1912,3
+Wells Goodfellow,1910,2
+Wells Goodfellow,1954,10
+Greater Ville,1899,1
+Cheltenham,1909,3
+Wells Goodfellow,1892,1
+O'Fallon,1892,17
+Wells Goodfellow,1907,4
+Wells Goodfellow,1910,2
+Baden,1925,1
+Mark Twain,1923,6
+Mark Twain,1949,4
+Walnut Park East,1909,2
+Bevo Mill,1906,2
+Forest Park South East,1885,6
+Marine Villa,1882,2
+Jeff Vanderlou,1900,9
+Hamilton Heights,1904,2
+Forest Park South East,1890,6
+Greater Ville,1901,6
+Kingsway West,1910,6
+Kingsway East,1901,3
+Baden,1938,2
+Walnut Park West,1951,4
+College Hill,1893,11
+Wells Goodfellow,1901,2
+Vandeventer,1883,1
+Academy,1894,2
+West End,1905,3
+West End,1892,4
+West End,1893,3
+Wells Goodfellow,1907,2
+Wells Goodfellow,1893,2
+Academy,1901,9
+Academy,1900,1
+Baden,1948,3
+West End,1895,10
+Academy,1904,1
+West End,1900,4
+Mount Pleasant,1896,5
+Dutchtown,1908,9
+College Hill,1911,9
+O'Fallon,1907,5
+O'Fallon,1910,5
+Greater Ville,1886,4
+Greater Ville,1894,1
+The Ville,1926,2
+Fountain Park,1904,2
+Hamilton Heights,1904,3
+Hamilton Heights,1924,2
+Hamilton Heights,1908,2
+Hamilton Heights,1906,1
+Penrose,1903,2
+Penrose,1911,2
+Greater Ville,1904,1
+Kingsway West,1914,1
+Kingsway West,1911,2
+Wells Goodfellow,1909,1
+Wells Goodfellow,1908,2
+Vandeventer,1884,17
+Dutchtown,1922,1
+Wells Goodfellow,1906,1
+Wells Goodfellow,1908,1
+Wells Goodfellow,1911,1
+Wells Goodfellow,1914,2
+Walnut Park East,1949,12
+Wells Goodfellow,1952,3
+North Pointe,1947,1
+Wells Goodfellow,1909,5
+Wells Goodfellow,1921,3
+Walnut Park West,1928,4
+Wells Goodfellow,1908,2
+Walnut Park East,1909,10
+Walnut Park East,1924,3
+Greater Ville,1875,7
+Fountain Park,1895,3
+Academy,1892,1
+Walnut Park West,1937,1
+Mark Twain,1919,2
+Patch,1908,8
+Fairground Neighborhood,1897,6
+O'Fallon,1922,1
+O'Fallon,1890,2
+Wells Goodfellow,1901,2
+Greater Ville,1902,1
+Academy,1905,7
+Mount Pleasant,1891,5
+O'Fallon,1913,8
+O'Fallon,1906,17
+The Ville,1927,7
+The Ville,1912,6
+Dutchtown,1914,3
+Patch,1893,5
+Wells Goodfellow,1904,11
+Hyde Park,1893,9
+Forest Park South East,1954,6
+Tower Grove East,1901,5
+Hyde Park,1909,11
+Hyde Park,1890,3
+College Hill,1900,10
+Dutchtown,1895,8
+Dutchtown,1910,6
+Dutchtown,1914,5
+Dutchtown,1901,8
+Dutchtown,1900,5
+Patch,1893,6
+O'Fallon,1911,11
+Patch,1902,8
+Greater Ville,1889,8
+West End,1905,4
+West End,1909,6
+Jeff Vanderlou,1905,10
+Penrose,1890,10
+Penrose,1914,12
+Kingsway West,1911,9
+Wells Goodfellow,1917,7
+Baden,1908,8
+Walnut Park East,1929,10
+Penrose,1911,1
+Kingsway West,1925,7
+Baden,1946,7
+Mark Twain,1913,15
+College Hill,1895,13
+Walnut Park West,1920,2
+Walnut Park East,1908,9
+Dutchtown,1927,12
+Dutchtown,1940,4
+Dutchtown,1940,4
+O'Fallon,1909,1
+O'Fallon,1905,5
+Greater Ville,1906,5
+Mark Twain,1940,7
+Baden,1909,4
+Shaw,1912,25
+Walnut Park West,1908,11
+Dutchtown,1899,4
+Fountain Park,1896,5
+Fountain Park,1896,4
+Hamilton Heights,1893,3
+Jeff Vanderlou,1903,6
+Greater Ville,1912,5
+Walnut Park West,1927,12
+College Hill,1890,12
+Dutchtown,1911,8
+Carondelet,1914,3
+O'Fallon,1894,2
+Hamilton Heights,1908,10
+Penrose,1912,5
+Wells Goodfellow,1905,4
+Wells Goodfellow,1907,2
+Jeff Vanderlou,1906,12
+Baden,1906,11
+Fountain Park,1897,8
+North Pointe,1934,9
+O'Fallon,1893,8
+Mark Twain,1921,5
+Forest Park South East,1890,6
+Covenant Blu-Grand Center,1890,6
+Fountain Park,1899,4
+West End,1907,3
+O'Fallon,1920,2
+Forest Park South East,1905,5
+Hyde Park,1913,10
+O'Fallon,1924,5
+The Ville,1912,6
+Kingsway East,1892,2
+Hamilton Heights,1906,3
+Walnut Park East,1925,4
+O'Fallon,1900,22
+Franz Park,1894,2
+O'Fallon,1923,17
+Hyde Park,1895,1
+Forest Park South East,1884,6
+Kingsway West,1892,4
+Hyde Park,1899,16
+Forest Park South East,1903,3
+Boulevard Heights,1950,6
+Forest Park South East,1896,7
+Dutchtown,1891,7
+Academy,1903,3
+Wells Goodfellow,1906,4
+Wells Goodfellow,1911,3
+Wells Goodfellow,1954,2
+Wells Goodfellow,1891,3
+West End,1901,3
+O'Fallon,1890,4
+Dutchtown,1911,2
+Dutchtown,1909,6
+Dutchtown,1910,4
+O'Fallon,1916,7
+Academy,1896,5
+Kingsway West,1924,7
+Hamilton Heights,1921,2
+O'Fallon,1903,2
+Greater Ville,1912,1
+Baden,1928,4
+Walnut Park East,1909,3
+Jeff Vanderlou,1885,10
+Lewis Place,1894,6
+Fountain Park,1907,5
+Hyde Park,1892,4
+Gravois Park,1904,14
+Dutchtown,1913,4
+Patch,1897,6
+Jeff Vanderlou,1909,6
+Academy,1901,5
+Academy,1900,4
+Wells Goodfellow,1909,6
+Wells Goodfellow,1930,11
+Tower Grove South,1913,3
+Vandeventer,1972,10
+College Hill,1905,5
+College Hill,1905,5
+O'Fallon,1908,7
+O'Fallon,1916,5
+Kingsway West,1914,10
+Wells Goodfellow,1924,5
+Jeff Vanderlou,1886,8
+O'Fallon,1912,12
+Kingsway East,1892,10
+Lewis Place,1892,5
+Jeff Vanderlou,1908,6
+Mount Pleasant,1909,3
+O'Fallon,1892,5
+Hamilton Heights,1900,17
+Kingsway West,1906,5
+Vandeventer,1929,4
+Wells Goodfellow,1908,11
+Wells Goodfellow,1911,7
+Hamilton Heights,1909,1
+Patch,1893,5
+Wells Goodfellow,1911,4
+Mark Twain,1920,7
+Lewis Place,1898,4
+Hamilton Heights,1904,7
+Kingsway East,1909,6
+Academy,1912,7
+Lindenwood Park,1952,6
+Shaw,1915,3
+Hyde Park,1906,1
+College Hill,1884,7
+Fountain Park,1893,5
+Dutchtown,1913,7
+College Hill,1904,13
+Forest Park South East,1896,11
+O'Fallon,1910,5
+College Hill,1892,0
+Greater Ville,1884,0
+Hamilton Heights,1905,0
+Hamilton Heights,1905,0
+Greater Ville,1914,1
+Kingsway East,1904,0
+Wells Goodfellow,1913,0
+Wells Goodfellow,1906,0
+Mark Twain,1912,0
+Greater Ville,1906,0
+Penrose,1927,0
+Kingsway West,1891,0
+Hyde Park,1870,0
+Baden,1904,0
+Walnut Park West,1928,0
+Jeff Vanderlou,1908,0
+Gravois Park,1884,3
+Baden,1923,0
+Greater Ville,1905,0
+Kingsway East,1904,0
+Jeff Vanderlou,1885,0
+Hyde Park,1903,3
+College Hill,1926,0
+College Hill,1888,0
+Carondelet,1908,3
+O'Fallon,1910,3
+Greater Ville,1899,0
+Fountain Park,1891,0
+O'Fallon,1916,4
+Greater Ville,1910,0
+Greater Ville,1928,0
+Kingsway East,1913,0
+Academy,1902,0
+Kingsway West,1910,0
+Walnut Park West,1904,0
+College Hill,1884,0
+Mark Twain,1911,0
+Wells Goodfellow,1891,0
+Wells Goodfellow,1892,2
+Wells Goodfellow,1909,0
+Walnut Park East,1922,0
+Mark Twain,1910,2
+Vandeventer,1894,0
+O'Fallon,1909,0
+Wells Goodfellow,1917,0
+Jeff Vanderlou,1927,0
+Greater Ville,1906,0
+College Hill,1892,0
+O'Fallon,1893,0
+Baden,1924,0
+Baden,1905,0
+Baden,1949,0
+O'Fallon,1906,0
+Academy,1904,2
+Kingsway East,1891,0
+O'Fallon,1904,0
+Jeff Vanderlou,1908,0
+Hyde Park,1884,1
+Gravois Park,1911,0
+Jeff Vanderlou,1906,0
+Fountain Park,1897,0
+Academy,1901,0
+Kingsway West,1908,0
+Kingsway West,1910,0
+Kingsway West,1909,0
+Wells Goodfellow,1903,0
+Lewis Place,1898,0
+Jeff Vanderlou,1908,0
+Lewis Place,1906,0
+Greater Ville,1906,0
+Mark Twain,1925,16
+College Hill,1901,0
+Walnut Park West,1928,9
+Wells Goodfellow,1909,2
+College Hill,1901,0
+O'Fallon,1911,0
+Wells Goodfellow,1890,0
+O'Fallon,1926,0
+Gravois Park,1884,0
+College Hill,1911,1
+Greater Ville,1908,10
+Lewis Place,1890,2
+Kingsway East,1906,4
+Wells Goodfellow,1905,6
+Walnut Park West,1937,2
+O'Fallon,1890,4
+Baden,1952,1
+Lewis Place,1894,4
+Walnut Park West,1956,7
+Penrose,1909,7
+Baden,1904,6
+College Hill,1890,6
+O'Fallon,1900,6
+College Hill,1895,1
+Lewis Place,1891,7
+Penrose,1895,2
+Jeff Vanderlou,1871,4
+Hyde Park,1928,13
+Hyde Park,1895,8
+College Hill,1892,5
+Dutchtown,1907,2
+O'Fallon,1908,2
+O'Fallon,1911,2
+O'Fallon,1906,2
+O'Fallon,1926,2
+Greater Ville,1940,2
+Greater Ville,1907,2
+Greater Ville,1895,4
+Greater Ville,1913,5
+The Ville,1884,5
+Greater Ville,1899,2
+Lewis Place,1890,4
+Kingsway East,1898,10
+Academy,1904,8
+Academy,1904,8
+Hamilton Heights,1908,3
+Hamilton Heights,1906,4
+West End,1908,3
+West End,1906,2
+West End,1908,3
+West End,1900,3
+Penrose,1910,2
+O'Fallon,1909,5
+O'Fallon,1892,8
+Greater Ville,1917,1
+Greater Ville,1905,3
+Kingsway East,1906,14
+Wells Goodfellow,1909,2
+Wells Goodfellow,1897,2
+Wells Goodfellow,1900,2
+Wells Goodfellow,1909,2
+Wells Goodfellow,1906,2
+Wells Goodfellow,1915,19
+Wells Goodfellow,1911,4
+Wells Goodfellow,1912,2
+Wells Goodfellow,1909,2
+Wells Goodfellow,1909,3
+Wells Goodfellow,1909,1
+Wells Goodfellow,1909,5
+Wells Goodfellow,1899,2
+Academy,1907,5
+Walnut Park East,1924,8
+Walnut Park East,1924,8
+Walnut Park West,1915,4
+Baden,1900,1
+Wells Goodfellow,1911,9
+Wells Goodfellow,1923,1
+Wells Goodfellow,1911,3
+Walnut Park West,1931,2
+Wells Goodfellow,1924,5
+Wells Goodfellow,1925,2
+Wells Goodfellow,1926,1
+Penrose,1898,2
+Penrose,1908,5
+O'Fallon,1900,2
+Greater Ville,1885,1
+Greater Ville,1890,7
+Wells Goodfellow,1908,6
+Wells Goodfellow,1906,8
+Wells Goodfellow,1890,4
+O'Fallon,1892,5
+Wells Goodfellow,1905,6
+Baden,1907,2
+Walnut Park West,1922,4
+Walnut Park West,1925,8
+Walnut Park West,1926,18
+Walnut Park West,1926,18
+Walnut Park West,1948,5
+O'Fallon,1908,5
+Greater Ville,1924,5
+Greater Ville,1884,4
+Academy,1892,1
+Hamilton Heights,1913,3
+O'Fallon,1915,7
+Wells Goodfellow,1908,6
+Wells Goodfellow,1911,7
+College Hill,1884,1
+College Hill,1901,6
+O'Fallon,1884,4
+Baden,1923,11
+Walnut Park West,1913,4
+Vandeventer,1892,1
+Hamilton Heights,1901,9
+Greater Ville,1890,4
+Baden,1905,4
+Wells Goodfellow,1909,6
+Walnut Park East,1905,1
+Lewis Place,1894,1
+Lewis Place,1894,1
+Lewis Place,1894,1
+College Hill,1892,10
+Greater Ville,1906,1
+Baden,1909,16
+Hyde Park,1894,1
+Hyde Park,1914,9
+College Hill,1880,6
+College Hill,1915,6
+Dutchtown,1895,9
+Dutchtown,1902,6
+Mount Pleasant,1926,6
+Mount Pleasant,1903,8
+College Hill,1925,6
+O'Fallon,1910,3
+O'Fallon,1894,8
+O'Fallon,1912,7
+Greater Ville,1936,4
+Jeff Vanderlou,1907,5
+The Ville,1907,3
+The Ville,1906,1
+Greater Ville,1900,11
+Greater Ville,1900,11
+Lewis Place,1907,6
+Hamilton Heights,1904,6
+Hamilton Heights,1909,5
+Mark Twain,1915,5
+Penrose,1895,2
+Penrose,1900,2
+Penrose,1912,7
+O'Fallon,1907,4
+O'Fallon,1907,4
+O'Fallon,1904,2
+Greater Ville,1908,14
+Greater Ville,1904,8
+Greater Ville,1926,4
+Kingsway East,1895,7
+Kingsway West,1913,12
+Kingsway West,1935,8
+Kingsway West,1935,8
+Kingsway West,1913,2
+Kingsway West,1910,6
+Kingsway West,1905,4
+Kingsway West,1892,5
+Vandeventer,1886,7
+Wells Goodfellow,1911,6
+Wells Goodfellow,1910,2
+Wells Goodfellow,1924,8
+Wells Goodfellow,1897,4
+Wells Goodfellow,1899,4
+Wells Goodfellow,1904,2
+Lewis Place,1904,5
+Wells Goodfellow,1905,3
+Wells Goodfellow,1923,8
+Wells Goodfellow,1901,4
+Kingsway West,1907,5
+Wells Goodfellow,1923,6
+College Hill,1890,6
+O'Fallon,1893,4
+O'Fallon,1892,5
+Kingsway West,1889,5
+Wells Goodfellow,1906,3
+Walnut Park West,1922,3
+Walnut Park West,1949,4
+Walnut Park West,1926,4
+Hyde Park,1889,12
+Dutchtown,1923,7
+Kingsway East,1910,4
+Academy,1889,11
+Academy,1903,8
+Academy,1903,8
+Baden,1901,1
+O'Fallon,1906,8
+Walnut Park East,1936,7
+Walnut Park West,1928,7
+College Hill,1888,10
+Greater Ville,1892,8
+Vandeventer,1884,6
+Walnut Park West,1917,10
+St. Louis Place,1905,4
+Jeff Vanderlou,1884,6
+Lewis Place,1899,3
+Academy,1905,2
+Academy,1893,7
+Jeff Vanderlou,1892,13
+Jeff Vanderlou,1907,9
+Walnut Park West,1908,8
+Walnut Park West,1924,8
+Fairground Neighborhood,1895,6
+Hyde Park,1884,6
+O'Fallon,1894,11
+Walnut Park East,1972,10
+Jeff Vanderlou,1893,10
+College Hill,1875,1
+Dutchtown,1895,8
+College Hill,1915,12
+O'Fallon,1898,5
+O'Fallon,1911,7
+O'Fallon,1911,7
+Greater Ville,1910,1
+Covenant Blu-Grand Center,1884,10
+Vandeventer,1886,6
+Fountain Park,1908,6
+Baden,1903,6
+Kingsway West,1924,8
+Kingsway West,1904,7
+Kingsway West,1924,7
+Kingsway West,1908,4
+Kingsway West,1908,7
+O'Fallon,1916,9
+Kingsway West,1905,7
+Walnut Park West,1930,5
+Bevo Mill,1918,5
+Mark Twain,1910,5
+Walnut Park West,1962,9
+Benton Park West,1885,13
+Jeff Vanderlou,1890,8
+O'Fallon,1912,9
+Penrose,1930,26
+Kingsway West,1908,9
+Baden,1908,4
+Jeff Vanderlou,1893,4
+Marine Villa,1890,8
+College Hill,1893,5
+The Ville,1891,1
+Greater Ville,1900,7
+Greater Ville,1900,7
+Kingsway East,1892,7
+College Hill,1884,6
+Penrose,1911,5
+Wells Goodfellow,1908,6
+Greater Ville,1903,0
+Benton Park West,1929,2
+Walnut Park West,1908,11
+Mark Twain,1912,13
+Walnut Park East,1912,3
+O'Fallon,1914,2
+Wells Goodfellow,1922,2
+Ellendale,1911,6
+The Ville,2005,10
+Baden,1902,1
+Walnut Park East,1909,5
+St. Louis Place,1892,5
+Academy,1897,11
+Jeff Vanderlou,1865,10
+Greater Ville,1895,12
+Baden,1948,1
+Patch,1892,6
+Greater Ville,1914,12
+Walnut Park West,1908,4
+Kingsway West,1897,7
+North Pointe,1937,1
+Hamilton Heights,1908,2
+O'Fallon,1907,9
+Greater Ville,1889,4
+Dutchtown,1922,9
+Walnut Park West,1927,3
+Greater Ville,1909,0
+Kingsway West,1906,0
+Kingsway West,1920,0
+Mark Twain,1925,0
+Penrose,1909,3
+Wells Goodfellow,1919,1
+Walnut Park West,1909,4
+Walnut Park West,1927,6
+O'Fallon,1886,4
+Kingsway East,1892,5
+Penrose,1914,8
+Wells Goodfellow,1906,8
+Greater Ville,1892,5
+O'Fallon,1895,1
